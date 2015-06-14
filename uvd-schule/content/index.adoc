@@ -8,6 +8,8 @@ date=2015-06-12
 ~~~~~~
 Wir freuen uns Sie hier begrüßen zu dürfen!
 
+image:/images/startuvd.jpg[]
+
 * Home
 ** Foto
 ** Zeiten Regelschulbetrieb
