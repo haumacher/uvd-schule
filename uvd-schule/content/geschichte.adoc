@@ -1,4 +1,4 @@
-title=Home
+title=Geschichte
 category=
 name=geschichte
 type=page
@@ -7,4 +7,26 @@ status=published
 date=2015-06-12
 ~~~~~~
 == Wer war Ullrich von Dürrmenz
+
+Die erste bedeutende Person ist der hochadlige 
+http://de.wikipedia.org/wiki/Ulrich_I._von_D%C3%BCrrmenz[Ulrich von Dürrmenz]. 
+Wann er geboren ist wissen wir nicht, 
+aber, dass er es in seinem Leben vom Geistlichen zum Vizekanzler des Kaisers Friedrich Barbarossa brachte. 
+Er muss viel gereist sein, dieser Spross des Dürrmenzer Geschlechtes, denn die Urkunden wurden 
+an ganz verschiedenen Orten ausgestellt. So wurde zum Beispiel die erste der 35 von 
+ihm am 1.August 1159 in Lodi in Italien, die letzte am 7.September 1162 in St.Jean de Dosne in Burgund 
+unterschrieben. 
+
+Wahrscheinlich in Anerkennung seiner Verdienste übertrug ihm der Kaiser das Bistum Speyer. 
+In seiner Eigenschaft als Bischof von Speyer besuchte er gegen Ende des Jahres 1163 das Kloster Maulbronn. 
+Dort scheint er krank geworden zu sein, denn während seines Aufenthaltes ereilte ihn am 26.Dezember der Tod. 
+Er wurde in der Klosterkirche begraben, in der seine Grabstätte noch erhalten ist. Ein Flachrelief am 
+nördlichen Chorbogen trägt die Inschrift VLRICVS POSITVS SPIRENS EPISCOPVS HIC EST (hier ist der Bischof 
+Ulrich von Speyer beigesetzt.) 
+
 == Die Schule
+
+Dürrmenz wurde 1592 als erste politische Gemeinde der Gegend erwähnt, die eine eigene Schule betreibt. 
+
+2004 bekam die Ulrich von Dürrmenz Schule eine neue Rektorin Frau Pfitzer. Ihre erste Amtshandlung 
+war eine neue solarbetriebene Turnhalle für die Ulrich von Dürrmenz Schule bauen zu lassen.
