@@ -177,6 +177,13 @@
 								<li th:replace="nav.thyme::pill('schulordnung', 'Schulordnung')"></li>
 							</ul>
 							</th:block>
+							
+							<th:block th:with="category='impressum'">
+							<ul th:if="${content.category} == ${category}" class="nav nav-pills nav-stacked">
+								<li th:replace="nav.thyme::pill('index', 'Impressum')"></li>
+								<li th:replace="nav.thyme::pill('haftung', 'Haftungsausschluss')"></li>
+							</ul>
+							</th:block>
 						</div>
 					</div>
 				</div>
