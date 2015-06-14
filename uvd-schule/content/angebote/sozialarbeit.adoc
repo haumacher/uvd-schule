@@ -7,7 +7,7 @@ status=published
 date=2015-06-12
 ~~~~~~
 Seit 2008 gibt es die Schulsozialarbeit an der Ulrich-von-Dürrmenz-Schule.
-Träger dieser Arbeit ist der Verein miteinanderleben e.V. in Pforzheim.
+Träger dieser Arbeit ist der Verein http://www.miteinanderleben.de/[miteinanderleben e.V.] in Pforzheim.
 
 Die Schulsozialarbeiterin Stefanie Schneider ist von Montag bis Donnerstag vor Ort, 
 in der Regel von 08:00 Uhr bis 12:30 Uhr, und bietet in dieser Zeit und nach Vereinbarung 
