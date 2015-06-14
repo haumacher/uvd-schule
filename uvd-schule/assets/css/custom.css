@@ -1,0 +1,61 @@
+.affix {
+	position: static;
+}
+
+.col-md-3 {
+	padding-left: 0px;	
+	padding-right: 0px;	
+}
+
+.sidebar-menu {
+	padding-left: 15px;	
+	padding-right: 15px;	
+}
+
+/* reserve space when the menu is fixed at top and removed from flow. Otherwise, content flickers when fixing occurs. */
+.custom-navbar-container {
+	min-height: 50px;
+	margin-bottom: 20px;
+}
+
+/* Move margin to custom-navbar-container to avoid flicker when the navbar is fixed. */
+.navbar {
+	margin-bottom: 0px;
+}
+
+@media all and (min-width: 768px) {
+	.navbar-form input.custom-sitesearch {
+		width: 110px;	
+	}
+}
+
+@media all and (min-width: 992px) {
+	.affix .sidebar-menu {
+		position: fixed;
+		top: 72px;
+	}
+}
+
+.affix .navbar {
+	z-index: 10;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+}
+
+.page-header h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.page-header {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+	border-bottom-style: none;
+}
+
+#wrap > .container {
+	padding-top: 30px;
+}

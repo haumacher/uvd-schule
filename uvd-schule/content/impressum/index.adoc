@@ -1,0 +1,19 @@
+title=Impressum
+category=impressum
+name=index
+type=page
+tags=
+status=published
+date=2015-06-12
+~~~~~~
+== Verantwortlicher für die gestalterische Umsetzung
+
+=== Ulrich-von-Dürrmenz-Schule
+Rektorin Frau Pfitzer
+
+Schulstraße 17 +
+75417 Mühlacker
+
+Tel.: 0 70 41 / 87 67 60 +
+Fax: 0 70 41 / 87 67 80 +
+Email: folgt in kürze...

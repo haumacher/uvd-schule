@@ -1,0 +1,10 @@
+title=Home
+category=
+name=schulbetrieb
+type=page
+tags=
+status=published
+date=2015-06-12
+~~~~~~
+== Regelschulbetrieb
+== Kernzeit

@@ -1,0 +1,9 @@
+title=Service
+category=service
+name=index
+type=page
+tags=
+status=published
+date=2015-06-12
+~~~~~~
+Service für Eltern und Schüler

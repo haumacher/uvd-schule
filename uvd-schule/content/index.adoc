@@ -1,0 +1,69 @@
+title=Herzlich Willkommen in der Ulrich-von-Dürrmenz Schule
+category=
+name=index
+type=page
+tags=
+status=published
+date=2015-06-12
+~~~~~~
+Wir freuen uns Sie hier begrüßen zu dürfen!
+
+* Home
+** Foto
+** Zeiten Regelschulbetrieb
+** Zeiten Kernzeit
+** Geschichte, Namenserklärung
+
+* Termine
+** Schuljahr (erster und letzter Schultag)
+** Ferien und bewegliche Ferientage
+** Einschulung
+** Elternabende
+** Schulfeste
+** Auftritte (z.B. Chor)
+
+* Profil
+** ???
+
+* Organisation
+** Team
+*** Schulleiter, 
+*** Lehrer, 
+*** Sekretariat
+*** Hausmeister
+*** Sonderfunktionen
+**** Kooperation KiGa
+**** Lesepaten
+**** Lernbegleiter
+** Elternbeirat
+*** Ansprechpartner
+*** Termine (Auszug aus allen Terminen)
+** Förderverein
+*** Organisation
+*** Kontakt
+*** Beitrittsformular
+
+* Angebote
+** Kernzeit
+*** Allgemeine Infos
+*** Link zur Stadt
+** Chor
+** Schach-AG
+** Näh-AG
+** Baskettball-AG
+** Handball-AG
+** Sozialarbeit
+
+* Service
+** Formulare
+*** Krankmeldung
+*** Anmeldung Kernzeit
+** Raumplan
+** Schulwege
+** Schulordnung
+** Schulgesetz (Link)
+
+* Impressum
+** Kontakt
+** Anfahrt
+** Haftungsausschluss

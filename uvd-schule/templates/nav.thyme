@@ -1,0 +1,36 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="header.thyme::head">
+		<title>Navigation fragments</title>
+	</head>
+	
+	<body onload="prettyPrint()">
+	<div id="wrap">
+	</div>
+	<div th:replace="footer.thyme::footer"></div>
+	
+			<ul>
+				<li 
+					th:fragment="tab(name,title)" 
+					th:classappend="${content.category} == ${category} ? 'active'"
+				>
+					<a th:href="${rootpath} + (${category} ? ${category} + '/') + ${name} + '.html'" th:text="${title}">
+						Title
+					</a>
+				</li>
+			</ul>
+	
+			<ul>
+				<li 
+					th:fragment="pill(name,title)" 
+					th:classappend="${content.name} == ${name} ? 'active'"
+				>
+					<a th:href="${rootpath} + (${category} ? ${category} + '/') + ${name} + '.html'" th:text="${title}">
+						Title
+					</a>
+				</li>
+			</ul>
+			
+    </body>
+</html>

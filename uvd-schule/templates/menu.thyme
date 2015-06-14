@@ -1,0 +1,178 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<title>Menu fragment</title>
+	</head>
+	<body>
+
+		<div th:fragment="menu"
+			th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')">
+
+			<header>
+				<div role="banner" id="banner" class="page-header">
+					<h1>
+						<img th:src="${rootpath} + 'icons/banner.jpg'" />
+					</h1>
+				</div>
+
+				<div class="custom-navbar-container">
+				<div id="main-menu" class="main-menu">
+					<script type="text/javascript">
+						$(window).on('load', function () {
+							$("#main-menu").affix({
+								offset: {
+								  top: function() { return $('#banner').height(); }
+								}
+							});
+						});
+					</script>
+					<nav class="navbar navbar-default">
+						<div class="container-fluid">
+
+							<div class="navbar-header">
+								<a th:classappend="${content.category} == '' ? 'active'" class="navbar-brand" th:href="${rootpath}">
+									UvD
+								</a>
+							
+								<button type="button" class="navbar-toggle collapsed"
+									data-toggle="collapse" data-target="#main-navigation">
+									<span class="sr-only">Toggle navigation</span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+									<span class="icon-bar"></span>
+								</button>
+							</div>
+
+							<div class="collapse navbar-collapse" id="main-navigation">
+								<ul class="nav navbar-nav">
+									<li th:classappend="${content.category} == 'termine' ? 'active'">
+										<a th:href="${rootpath} + 'termine/'">Termine</a>
+									</li>
+									
+									<th:block th:with="category='profil'">
+									<li th:replace="nav.thyme::tab('index', 'Profil')"></li>
+									</th:block>
+									
+									<th:block th:with="category='angebote'">
+									<li th:classappend="${content.category} == ${category} ? 'active'">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Angebote <span class="caret"></span></a>
+										
+										<ul class="dropdown-menu" role="menu">
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'kernzeit' + '.html'">Kernzeitbetreuung</a>
+											</li>
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'chor' + '.html'">Schulchor</a>
+											</li>
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'schach' + '.html'">Schach-AG</a>
+											</li>
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'naeh-ag' + '.html'">Handarbeits-AG</a>
+											</li>
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'basketball' + '.html'">Basketball-AG</a>
+											</li>
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'handball' + '.html'">Handball-AG</a>
+											</li>
+											<li>
+												<a th:href="${rootpath} + ${category} + '/' + 'sozialarbeit' + '.html'">Sozialarbeit</a>
+											</li>
+										</ul>
+									</li>
+									</th:block>
+									
+									<li th:classappend="${content.category} == 'service' ? 'active'">
+										<a th:href="${rootpath} + 'service/'">Service</a>
+									</li>
+								</ul>
+
+								<form class="navbar-form navbar-right" role="search">
+									<div class="form-group">
+										<input type="text" class="form-control custom-sitesearch" placeholder="Suche" />
+									</div>
+									<button type="submit" class="btn btn-default">Los!</button>
+								</form>
+
+								<ul class="nav navbar-nav navbar-right">
+									<li th:classappend="${content.category} == 'impressum' ? 'active'">
+										<a th:href="${rootpath} + 'impressum/'">Impressum</a>
+									</li>
+								</ul>
+
+							</div>
+						</div>
+					</nav>
+				</div>
+				</div>
+			</header>
+
+			<div class="container bs-docs-container">
+				<div class="row">
+					<div class="col-md-9" role="main">
+						<div class="page-header">
+							<h1 th:text='${content.title}'>title</h1>
+						</div>
+
+<th:block th:if="${content.date}">
+						<p><em th:text='${#dates.format(content.date,"dd MMMM yyyy")}'>date</em></p>
+</th:block>					
+					
+						<p th:utext='${content.body}'>body</p>
+					
+						<hr />
+					</div>
+					
+					<div id="sidebar" class="col-md-3" role="complementary">
+						<script type="text/javascript">
+							$(window).on('load', function () {
+								$("#sidebar").affix({
+									offset: {
+									  top: function() { return $('#banner').height(); }
+									}
+								});
+							});
+						</script>
+					
+						<div class="sidebar-menu">
+							<th:block th:with="category=''">
+							<ul th:if="${content.category} == ${category}" class="nav nav-pills nav-stacked">
+								<li th:replace="nav.thyme::pill('index', 'Willkommen')"></li>
+								<li th:replace="nav.thyme::pill('team', 'Unser Team')"></li>
+								<li th:replace="nav.thyme::pill('elternbeirat', 'Elternbeirat')"></li>
+								<li th:replace="nav.thyme::pill('foerderverein', 'Uvd Förderverein')"></li>
+								<li th:replace="nav.thyme::pill('schulbetrieb', 'Schulbetrieb')"></li>
+								<li th:replace="nav.thyme::pill('geschichte', 'Geschichte')"></li>
+							</ul>
+							</th:block>
+				
+							<th:block th:with="category='organisation'">
+							<ul th:if="${content.category} == ${category}" class="nav nav-pills nav-stacked">
+								<li th:replace="nav.thyme::pill('index', 'Team')"></li>
+								<li th:replace="nav.thyme::pill('elternbeirat', 'Elternbeirat')"></li>
+								<li th:replace="nav.thyme::pill('foerderverein', 'Förderverein')"></li>
+							</ul>
+							</th:block>
+				
+							<th:block th:with="category='angebote'">
+							<ul th:if="${content.category} == ${category}" class="nav nav-pills nav-stacked">
+								<li th:replace="nav.thyme::pill('kernzeit', 'Kernzeit')"></li>
+								<li th:replace="nav.thyme::pill('chor', 'Chor')"></li>
+								<li th:replace="nav.thyme::pill('schach', 'Schach')"></li>
+								<li th:replace="nav.thyme::pill('naeh-ag', 'Nähen')"></li>
+								<li th:replace="nav.thyme::pill('basketball', 'Basketball')"></li>
+								<li th:replace="nav.thyme::pill('handball', 'Handball')"></li>
+								<li th:replace="nav.thyme::pill('sozialarbeit', 'Sozialarbeit')"></li>
+							</ul>
+							</th:block>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		
+	</body>
+</html>

@@ -1,0 +1,10 @@
+title=Basketball-AG
+category=angebote
+name=basketball
+type=page
+tags=
+status=published
+date=2015-06-12
+~~~~~~
+
+

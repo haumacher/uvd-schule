@@ -1,0 +1,14 @@
+title=Team
+category=
+name=team
+type=page
+tags=
+status=published
+date=2015-06-12
+~~~~~~
+== Lehrer
+
+== Sekretariat
+
+== Hausmeister
+
