@@ -13,7 +13,7 @@
 			<ul>
 				<li 
 					th:fragment="tab(name,title)" 
-					th:classappend="${content.category} == ${category} ? 'active'"
+					th:classappend="${pagecategory} == ${category} ? 'active'"
 				>
 					<a th:href="${rootpath} + (${category} ? ${category} + '/') + ${name} + '.html'" th:text="${title}">
 						Title
@@ -24,7 +24,7 @@
 			<ul>
 				<li 
 					th:fragment="pill(name,title)" 
-					th:classappend="${content.name} == ${name} ? 'active'"
+					th:classappend="${pagename} == ${name} ? 'active'"
 				>
 					<a th:href="${rootpath} + (${category} ? ${category} + '/') + ${name} + '.html'" th:text="${title}">
 						Title

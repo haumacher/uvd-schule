@@ -2,12 +2,12 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
 	<body>
-		<div th:fragment="footer" th:with="rootpath=(${content.rootpath != null} ? ${content.rootpath} : '')">
+		<div th:fragment="footer">
 			<div id="push"></div>
     
 		    <div id="footer">
 		      <div class="container">
-		        <p class="muted credit">&copy; 2014 | Mixed with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Baked with <a href="http://jbake.org">JBake <span th:text='${version}'>version</span></a></p>
+		        <p class="muted credit">&copy; 2015 | Build with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Generated with <a href="http://jbake.org">JBake <span th:text='${version}'>version</span></a></p>
 		      </div>
 		    </div>
 	    

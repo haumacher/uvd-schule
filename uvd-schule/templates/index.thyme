@@ -1,0 +1,39 @@
+<!DOCTYPE html SYSTEM "http://www.thymeleaf.org/dtd/xhtml1-strict-thymeleaf-4.dtd">
+
+<html th:with="rootpath='../', pagecategory='termine', pagename='index'" xmlns="http://www.w3.org/1999/xhtml" xmlns:th="http://www.thymeleaf.org">
+	<head th:replace="header.thyme::head"/>
+	<body onload="prettyPrint()">
+		<div id="wrap">
+			<div th:replace="menu.thyme::header"/>
+			
+			<div class="container bs-docs-container">
+				<div class="row">
+					<div class="col-md-9" role="main">
+						<div th:each="post,status : ${published_posts}">
+							<div class="page-header" th:remove="${status.index} == 0 ? 'none' : 'tag'">
+								<a th:href='${rootpath} + ${post.uri}' href='href'>
+									<h1 th:text='${post.title}'>title</h1>
+								</a>
+							</div>
+													
+							<p th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</p>
+							<p th:utext='${post.body}'>body</p>
+						</div>
+							
+						<hr />
+						
+						<p>Ältere Termine sind <a th:href='${rootpath + config.archive_file}' href='href'>archiviert</a>.</p>
+					
+						<hr />
+					</div>
+					
+					<div th:replace="menu.thyme::sidebar"/>
+					
+				</div>
+			</div>
+									
+		</div>
+		
+		<div th:replace="footer.thyme::footer"></div>
+    </body>
+</html>
