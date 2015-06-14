@@ -31,7 +31,7 @@
 						<div class="container-fluid">
 
 							<div class="navbar-header">
-								<a th:classappend="${content.category} == '' ? 'active'" class="navbar-brand" th:href="${rootpath}">
+								<a th:classappend="${content.category} == '' ? 'active'" class="navbar-brand" th:href="${rootpath} + 'index.html'">
 									UvD
 								</a>
 							
