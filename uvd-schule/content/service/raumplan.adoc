@@ -1,9 +1,9 @@
-title=Service
+title=Raumplan
 category=service
-name=index
+name=raumplan
 type=page
 tags=
 status=published
 date=2015-06-12
 ~~~~~~
-Service für Eltern und Schüler
+TODO
