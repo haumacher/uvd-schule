@@ -4,7 +4,6 @@ name=sozialarbeit
 type=page
 tags=
 status=published
-date=2015-06-12
 ~~~~~~
 Seit 2008 gibt es die Schulsozialarbeit an der Ulrich-von-Dürrmenz-Schule.
 Träger dieser Arbeit ist der Verein http://www.miteinanderleben.de/[miteinanderleben e.V.] in Pforzheim.

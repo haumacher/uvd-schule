@@ -4,7 +4,6 @@ name=elternbeirat
 type=page
 tags=
 status=published
-date=2015-06-12
 ~~~~~~
 == Ansprechpartner
 == Termine (Auszug aus allen Terminen)

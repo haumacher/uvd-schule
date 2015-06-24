@@ -4,7 +4,6 @@ name=geschichte
 type=page
 tags=
 status=published
-date=2015-06-12
 ~~~~~~
 == Wer war Ullrich von Dürrmenz
 

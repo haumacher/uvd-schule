@@ -4,7 +4,6 @@ name=index
 type=page
 tags=
 status=published
-date=2015-06-12
 ~~~~~~
 == Verantwortlicher für die gestalterische Umsetzung
 

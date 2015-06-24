@@ -4,7 +4,6 @@ name=handball
 type=page
 tags=
 status=published
-date=2015-06-12
 ~~~~~~
 
 
