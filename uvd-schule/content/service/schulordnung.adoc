@@ -1,8 +1,41 @@
-title=Schulordnung
+title=Schulordnung der Ulrich-von-Dürrmenz-Schule Mühlacker
 category=service
 name=schulordnung
 type=page
 tags=
 status=published
+date=2007-03-01
 ~~~~~~
-TODO
+Diese Schulordnung gilt für alle, die an unserem Schulalltag teilnehmen. Sie soll dazu beitragen, ein gutes Schulleben zu ermöglichen.
+
+== Wir halten uns an folgende Regeln:
+
+=== Wir verhalten uns rücksichtsvoll und respektvoll.
+Wir wollen erreichen, dass durch unser Verhalten niemand bedroht, belästigt, gefährdet oder verletzt wird. Respekt gegenüber anderen zeigen heißt, andere in ihrer Persönlichkeit zu achten und ihre Menschenwürde nicht zu verletzen. 
+
+Zu rücksichtsvollem Verhalten gehört auch, dass wir Schreien, Toben, Rennen und Schubsen auf den Gängen und aggressives Verhalten auf dem Pausenhof vermeiden. 
+
+Handys und Musikabspielgeräte bleiben auf dem Schulgelände ausgeschaltet in der Tasche. 
+
+=== Wir fügen niemandem körperlichen oder seelischen Schaden zu.
+Als körperliche Gewalt gilt alles, was anderen Schmerzen oder Qual zufügt. Psychische oder seelische Gewalt bedeutet, z. B. andere zu beleidigen, sie durch Worte zu provozieren oder sich in Ton und Lautstärke zu vergreifen. Dadurch kann man andere genauso verletzen wie durch Schläge.
+
+=== Wir sind pünktlich und zuverlässig.
+Pünktlichkeit und Zuverlässigkeit tragen zum reibungslosen Ablauf des Schullebens bei. Wer pünktlich und zuverlässig ist, hat weniger Stress.
+
+=== Wir achten auf Sauberkeit.
+Wir müssen uns alle für ein sauberes Schulgelände, Schulhaus und Klassenzimmer verantwortlich fühlen. Jeder räumt seinen Abfall selber weg. Müllvermeidung ist besser als Müllentsorgung!
+
+=== Wir unterlassen den Umgang mit Drogen.
+Unter Drogen verstehen wir alle Suchtmittel, also auch Alkohol und Zigaretten. Rauschmittel einzunehmen oder sie anzubieten (Dealerei !) ist gesetzlich verboten. Handel mit Drogen anzuzeigen verstehen wir daher nicht als Petzerei, sondern dient dem Schutze der anderen.
+
+=== Wir bringen keine Waffen oder waffenähnliche Gegenstände mit.
+Waffen bzw. waffenähnliche Gegenstände sind alle Dinge, die dazu eingesetzt werden können, andere zu bedrohen, zu gefährden oder zu verletzen.
+
+=== Wir achten das Privat- und Schuleigentum.
+Wir gehen mit allem Eigentum, ob privat oder schulisch, sorgsam um. Dazu gehört auch das Verunstalten, Verschmieren von Wänden, Tischen und Toiletten. Wir wissen, dass Dinge, die absichtlich beschädigt oder zerstört werden, ersetzt werden müssen. Dasselbe gilt für Diebstahl.
+
+'''
+Verfasst im Juni 1999 von Schülerinnen und Schülern, Eltern, Lehrerinnen und Lehrern.
+
+Zuletzt aktualisiert im März 2007.
