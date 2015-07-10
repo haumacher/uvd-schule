@@ -46,7 +46,7 @@
 							<div class="collapse navbar-collapse" id="main-navigation">
 								<ul class="nav navbar-nav">
 									<li th:classappend="${pagecategory} == 'termine' ? 'active'">
-										<a th:href="${rootpath} + 'termine/'">Termine</a>
+										<a th:href="${rootpath} + 'termine/index.html'">Termine</a>
 									</li>
 									
 									<th:block th:with="category='profil'">
@@ -94,6 +94,23 @@
 										<input id="search-input" type="text" class="form-control custom-sitesearch" placeholder="Suche" />
 									</div>
 									<button type="submit" class="btn btn-default">Los!</button>
+									
+									<div class="btn-group" th:if="${wikibake}" th:with="canedit=${content.type}=='page' or ${content.type}=='post'">
+										<button th:if="${canedit}" type="button" class="btn btn-default" onclick="return jbToggleEdit();">
+											<span class="custom-editor">Edit</span><span class="custom-editor custom-hidden">Save</span>
+										</button>
+										<button th:unless="${canedit}" type="button" class="btn btn-default" onclick="return false;">
+											New
+										</button>
+										<button th:if="${canedit}" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+											<span class="caret"></span>
+											<span class="sr-only">Wiki Menu</span>
+										</button>
+										<ul th:if="${canedit}" class="dropdown-menu">
+											<li><a href="#">New</a></li>
+											<li><a href="#">Delete</a></li>
+										</ul>
+									</div>
 								</form>
 
 								<ul class="nav navbar-nav navbar-right">
@@ -113,14 +130,24 @@
 				<div class="row">
 					<div class="col-md-9" role="main">
 						<div class="page-header">
-							<h1 th:text='${content.title}'>title</h1>
+							<h1 id="jb-title" th:text='${content.title}'>title</h1>
 						</div>
 
 <th:block th:if="${content.date}">
 						<p><em th:text='${#dates.format(content.date,"dd MMMM yyyy")}'>date</em></p>
 </th:block>					
-					
-						<p th:utext='${content.body}'>body</p>
+
+						<th:block th:fragment="content">
+							<div class="custom-editor">
+								<div id="custom-body" th:utext='${content.body}'>body</div>
+							</div>
+							
+							<div th:if="${wikibake}" class="custom-editor custom-hidden">
+								<input id="jb-uri" type="text" size="80" th:value="${content.sourceURI}" />
+								<textarea id="custom-source" rows="30" cols="120" th:utext='${content.source}'>
+								</textarea>
+							</div>					
+						</th:block>
 					
 						<hr />
 					</div>

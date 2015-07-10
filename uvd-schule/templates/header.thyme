@@ -15,6 +15,7 @@
 	    <link th:href="${rootpath}+'css/base.css'" rel="stylesheet"/>
 	    <link th:href="${rootpath}+'css/prettify.css'" rel="stylesheet"/>
 	    <link th:href="${rootpath}+'css/custom.css'" rel="stylesheet"/>
+	    <link th:href="${rootpath}+'jb/wiki/jbake-wiki.css'" rel="stylesheet"/>
 	
 	    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	    <!--[if lt IE 9]>
@@ -30,6 +31,9 @@
 
 		<!-- Placed in the header to allow JQuery calls during document creation. -->	    
 	    <script type="text/javascript" th:src="${rootpath} + 'js/jquery-1.11.1.min.js'"></script>
+	    
+	    <script type="text/javascript" th:utext="|contextPath = '${rootpath}'; sourceURI = '${content.sourceURI}';|"></script>
+	    <script type="text/javascript" th:src="${rootpath} + 'jb/wiki/jbake-wiki.js'"></script>
 	</head>
 	<body>
 	</body>
