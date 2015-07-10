@@ -50,7 +50,19 @@
 									</li>
 									
 									<th:block th:with="category='profil'">
-									<li th:replace="nav.thyme::tab('index', 'Profil')"></li>
+									<li th:classappend="${pagecategory} == ${category} ? 'active'">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Profil <span class="caret"></span></a>
+										
+										<ul class="dropdown-menu" role="menu">
+											<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
+												<th:block th:if="${document.category} == ${category}">
+													<li>
+														<a th:href="${rootpath} + ${document.uri}" th:text="${document.menutitle} ?: ${document.title}">Title</a>
+													</li>
+												</th:block>
+											</th:block>
+										</ul>
+									</li>
 									</th:block>
 									
 									<th:block th:with="category='angebote'">
@@ -58,33 +70,31 @@
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Angebote <span class="caret"></span></a>
 										
 										<ul class="dropdown-menu" role="menu">
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'kernzeit' + '.html'">Kernzeitbetreuung</a>
-											</li>
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'chor' + '.html'">Schulchor</a>
-											</li>
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'schach' + '.html'">Schach-AG</a>
-											</li>
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'naeh-ag' + '.html'">Handarbeits-AG</a>
-											</li>
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'basketball' + '.html'">Basketball-AG</a>
-											</li>
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'handball' + '.html'">Handball-AG</a>
-											</li>
-											<li>
-												<a th:href="${rootpath} + ${category} + '/' + 'sozialarbeit' + '.html'">Sozialarbeit</a>
-											</li>
+											<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
+												<th:block th:if="${document.category} == ${category}">
+													<li>
+														<a th:href="${rootpath} + ${document.uri}" th:text="${document.menutitle} ?: ${document.title}">Title</a>
+													</li>
+												</th:block>
+											</th:block>
 										</ul>
 									</li>
 									</th:block>
 									
 									<th:block th:with="category='service'">
-										<li th:replace="nav.thyme::tab('formulare', 'Service')"></li>
+									<li th:classappend="${pagecategory} == ${category} ? 'active'">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Service <span class="caret"></span></a>
+										
+										<ul class="dropdown-menu" role="menu">
+											<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
+												<th:block th:if="${document.category} == ${category}">
+													<li>
+														<a th:href="${rootpath} + ${document.uri}" th:text="${document.menutitle} ?: ${document.title}">Title</a>
+													</li>
+												</th:block>
+											</th:block>
+										</ul>
+									</li>
 									</th:block>
 									
 								</ul>
@@ -164,59 +174,15 @@
 						</script>
 					
 						<div class="sidebar-menu">
-							<th:block th:with="category=''">
-							<ul th:if="${pagecategory} == ${category}" class="nav nav-pills nav-stacked">
-								<li th:replace="nav.thyme::pill('index', 'Willkommen')"></li>
-								<li th:replace="nav.thyme::pill('team', 'Unser Team')"></li>
-								<li th:replace="nav.thyme::pill('elternbeirat', 'Elternbeirat')"></li>
-								<li th:replace="nav.thyme::pill('foerderverein', 'Uvd Förderverein')"></li>
-								<li th:replace="nav.thyme::pill('schulbetrieb', 'Schulbetrieb')"></li>
-								<li th:replace="nav.thyme::pill('geschichte', 'Geschichte')"></li>
+							<ul class="nav nav-pills nav-stacked">
+								<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
+									<th:block th:if="${document.category} == ${pagecategory}">
+										<li th:classappend="${document.uri} == ${content.uri} ? 'active'">
+											<a th:href="${rootpath} + ${document.uri}" th:text="${document.menutitle} ?: ${document.title}">Title</a>
+										</li>
+									</th:block>
+								</th:block>
 							</ul>
-							</th:block>
-				
-							<th:block th:with="category='organisation'">
-							<ul th:if="${pagecategory} == ${category}" class="nav nav-pills nav-stacked">
-								<li th:replace="nav.thyme::pill('index', 'Team')"></li>
-								<li th:replace="nav.thyme::pill('elternbeirat', 'Elternbeirat')"></li>
-								<li th:replace="nav.thyme::pill('foerderverein', 'Förderverein')"></li>
-							</ul>
-							</th:block>
-				
-							<th:block th:with="category='angebote'">
-							<ul th:if="${pagecategory} == ${category}" class="nav nav-pills nav-stacked">
-								<li th:replace="nav.thyme::pill('kernzeit', 'Kernzeit')"></li>
-								<li th:replace="nav.thyme::pill('chor', 'Chor')"></li>
-								<li th:replace="nav.thyme::pill('schach', 'Schach')"></li>
-								<li th:replace="nav.thyme::pill('naeh-ag', 'Nähen')"></li>
-								<li th:replace="nav.thyme::pill('basketball', 'Basketball')"></li>
-								<li th:replace="nav.thyme::pill('handball', 'Handball')"></li>
-								<li th:replace="nav.thyme::pill('sozialarbeit', 'Sozialarbeit')"></li>
-							</ul>
-							</th:block>
-							
-							<th:block th:with="category='service'">
-							<ul th:if="${pagecategory} == ${category}" class="nav nav-pills nav-stacked">
-								<li th:replace="nav.thyme::pill('formulare', 'Formulare')"></li>
-								<li th:replace="nav.thyme::pill('raumplan', 'Raumplan')"></li>
-								<li th:replace="nav.thyme::pill('schulwege', 'Schulwege')"></li>
-								<li th:replace="nav.thyme::pill('schulordnung', 'Schulordnung')"></li>
-							</ul>
-							</th:block>
-							
-							<th:block th:with="category='impressum'">
-							<ul th:if="${pagecategory} == ${category}" class="nav nav-pills nav-stacked">
-								<li th:replace="nav.thyme::pill('index', 'Impressum')"></li>
-								<li th:replace="nav.thyme::pill('haftung', 'Haftungsausschluss')"></li>
-							</ul>
-							</th:block>
-							
-							<th:block th:with="category='termine'">
-							<ul th:if="${pagecategory} == ${category}" class="nav nav-pills nav-stacked">
-								<li th:replace="nav.thyme::pill('index', 'Aktuelle Termine')"></li>
-								<li th:replace="nav.thyme::pill('archive', 'Archiv')"></li>
-							</ul>
-							</th:block>
 						</div>
 					</div>
 				</div>
