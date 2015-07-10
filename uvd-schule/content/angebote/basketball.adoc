@@ -1,9 +1,30 @@
-title=Basketball-AG
+title=Basketball-AG an der UvD
 category=angebote
 name=basketball
 type=page
 tags=
 status=published
 ~~~~~~
+:imagesdir: /assets/images
+Die Basketball-AG findet dienstags nachmittags im Zeitfenster 15.30 Uhr bis 17.00 Uhr statt und wird von den Kindern sehr positiv angenommen. 
 
+AG-Leiterin ist Sabine Herzog sowie der Basketballcoach Borislav Trinfinov. Bei Fragen zu Schnuppertraining oder sonstigen Fragen/Rückfragen stehen Ihnen folgende Ansprechpartner zur Verfügung:
 
+Sabine Herzog +
+Handynummer 0160/91233737.
+
+Wir freuen uns auf Euch!
+
+image::basketball-1.jpg[]
+
+Freude, Spaß, Gemeinschaft und Bewegung stehen beiderBasketball-AG jeweils im Vordergrund.
+Sport verbindet - besonders Integration. Wir sind und leben "multikulti" und lernen so mit einander und für einander und voneinander.
+
+In Zusammenarbeit mit dem Jugendhaus "Pro Zwo" nehmen unsere BSG Kids am Samstag, 25.07.2015 von 14.00 Uhr bis 16.00 Uhr am "Tag der Jugend" auf den Enzgärten der Gartenschau Mühlacker teil.
+Hier steht Street-Basketball auf dem Programm. 
+
+Wir hoffen auf zahlreiche Zuschauer und würden uns freuen, wenn viele Kinder mit Spaß und Freude einen kleinen Einblick in ein Basketballtraining nehmen würden.
+
+Auf Euer Kommen freuen wir uns!
+
+image::basketball-2.jpg[]
