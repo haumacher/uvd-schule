@@ -59,3 +59,8 @@
 #wrap > .container {
 	padding-top: 30px;
 }
+
+.navbar-header > a.active, .navbar-header > a.active:hover {
+	color:#555;
+	background-color:#e7e7e7
+}
