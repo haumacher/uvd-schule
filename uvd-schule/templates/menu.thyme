@@ -153,7 +153,7 @@
 							</div>
 							
 							<div th:if="${wikibake}" class="custom-editor custom-hidden">
-								<input id="jb-uri" type="text" size="80" th:value="${content.sourceURI}" />
+								<input id="jb-uri" type="text" size="80" th:value="${content.sourceuri}" />
 								<textarea id="custom-source" rows="30" cols="120" th:utext='${content.source}'>
 								</textarea>
 							</div>					

@@ -32,7 +32,7 @@
 		<!-- Placed in the header to allow JQuery calls during document creation. -->	    
 	    <script type="text/javascript" th:src="${rootpath} + 'js/jquery-1.11.1.min.js'"></script>
 	    
-	    <script type="text/javascript" th:utext="|contextPath = '${rootpath}'; sourceURI = '${content.sourceURI}';|"></script>
+	    <script type="text/javascript" th:utext="|contextPath = '${rootpath}'; sourceuri = '${content.sourceuri}';|"></script>
 	    <script type="text/javascript" th:src="${rootpath} + 'jb/wiki/jbake-wiki.js'"></script>
 	</head>
 	<body>
