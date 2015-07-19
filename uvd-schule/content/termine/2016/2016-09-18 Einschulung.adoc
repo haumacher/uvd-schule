@@ -1,7 +1,7 @@
 title=Einschulung 2016
 date=2016-09-18
 type=post
-tags=schulbeginn
+tags=Einschulung
 status=published
 ~~~~~~
 TODO: Wie läuft es ab?

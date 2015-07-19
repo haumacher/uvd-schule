@@ -18,9 +18,11 @@
 						<div th:replace="menu.thyme::content"/>
 					
 						<hr />
+						
+						<div th:replace="menu.thyme::tags"/>
 					</div>
 					
-					<div th:replace="menu.thyme::sidebar"/>
+					<div th:replace="index.thyme::sidebar"/>
 					
 				</div>
 			</div>

@@ -1,0 +1,7 @@
+title=Einschulung 2014
+date=2014-09-18
+type=post
+tags=Einschulung
+status=published
+~~~~~~
+TODO: Wie lief es ab?

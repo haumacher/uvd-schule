@@ -7,7 +7,7 @@
     
 		    <div id="footer">
 		      <div class="container">
-		        <p class="muted credit">&copy; 2015 | Build with <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Generated with <a href="http://jbake.org">JBake <span th:text='${version}'>version</span></a></p>
+		        <p class="muted credit">&copy; <span th:text="${#dates.year(#dates.createNow())}">2010</span> | Seiten-Layout mit <a href="http://getbootstrap.com/">Bootstrap v3.1.1</a> | Generiert mit <a href="http://jbake.org">JBake <span th:text='${version}'>version</span></a></p>
 		      </div>
 		    </div>
 	    

@@ -1,0 +1,7 @@
+title=Elternabend für die neuen ersten Klassen
+date=2015-09-16
+type=post
+tags=Elternabend, Einschulung
+status=published
+~~~~~~
+TODO

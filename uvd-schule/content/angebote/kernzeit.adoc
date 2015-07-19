@@ -3,7 +3,7 @@ title=Kernzeitbetreuung
 category=angebote
 name=kernzeit
 type=page
-tags=
+tags=Kernzeit
 status=published
 ~~~~~~
 

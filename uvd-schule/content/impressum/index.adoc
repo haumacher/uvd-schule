@@ -3,7 +3,7 @@ title=Impressum
 category=impressum
 name=index
 type=page
-tags=
+tags=Impressum
 status=published
 ~~~~~~
 == Verantwortlicher für die gestalterische Umsetzung

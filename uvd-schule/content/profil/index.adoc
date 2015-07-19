@@ -2,7 +2,7 @@ title=Profil
 category=profil
 name=index
 type=page
-tags=
+tags=Profil
 status=published
 ~~~~~~
 Unser Profil

@@ -2,7 +2,7 @@ title=Schulbetrieb
 category=home
 name=schulbetrieb
 type=page
-tags=
+tags=Schulbetrieb
 status=published
 ~~~~~~
 == Regelschulbetrieb

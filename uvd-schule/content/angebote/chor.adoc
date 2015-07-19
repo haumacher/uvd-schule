@@ -2,7 +2,7 @@ title=Schulchor
 category=angebote
 name=chor
 type=page
-tags=
+tags=Schulchor
 status=published
 ~~~~~~
 

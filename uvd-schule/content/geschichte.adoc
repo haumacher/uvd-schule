@@ -3,7 +3,7 @@ title=Geschichte
 category=home
 name=geschichte
 type=page
-tags=
+tags=Geschichte
 status=published
 ~~~~~~
 == Wer war Ullrich von Dürrmenz

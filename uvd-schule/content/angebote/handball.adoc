@@ -2,7 +2,7 @@ title=Handball-AG
 category=angebote
 name=handball
 type=page
-tags=
+tags=Handball
 status=published
 ~~~~~~
 

@@ -2,7 +2,7 @@ title=Handarbeits-AG
 category=angebote
 name=naeh-ag
 type=page
-tags=
+tags=Handarbeit
 status=published
 ~~~~~~
 

@@ -21,7 +21,7 @@
 						</div>
 					</div>
 					
-					<div th:replace="menu.thyme::sidebar"/>
+					<div th:replace="index.thyme::sidebar"/>
 					
 				</div>
 			</div>

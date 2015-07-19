@@ -3,7 +3,7 @@ title=Basketball-AG an der UvD
 category=angebote
 name=basketball
 type=page
-tags=
+tags=Basketball
 status=published
 ~~~~~~
 :imagesdir: /images

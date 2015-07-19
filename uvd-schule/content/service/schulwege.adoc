@@ -3,7 +3,7 @@ title=Offizielle Schulwege
 category=service
 name=schulwege
 type=page
-tags=
+tags=Schulwege
 status=published
 ~~~~~~
 TODO

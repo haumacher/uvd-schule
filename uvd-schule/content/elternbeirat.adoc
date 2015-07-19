@@ -3,7 +3,7 @@ title=Elternbeirat
 category=home
 name=elternbeirat
 type=page
-tags=
+tags=Elternbeirat
 status=published
 ~~~~~~
 == Ansprechpartner

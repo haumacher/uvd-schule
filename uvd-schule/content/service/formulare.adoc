@@ -3,7 +3,7 @@ title=Formulare für den Schulalltag
 category=service
 name=formulare
 type=page
-tags=
+tags=Formulare
 status=published
 ~~~~~~
 TODO

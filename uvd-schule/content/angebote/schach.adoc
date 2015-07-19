@@ -2,7 +2,7 @@ title=Schach-AG
 category=angebote
 name=schach
 type=page
-tags=
+tags=Schach
 status=published
 ~~~~~~
 

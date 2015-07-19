@@ -8,8 +8,8 @@
 			
 			<div class="container bs-docs-container">
 				<div class="row">
-					<div class="col-md-9" role="main">
-						<div th:each="post,status : ${published_posts}">
+					<div class="col-md-9" role="main" th:with="referenceDate=${#calendars.createToday()}, x1=${referenceDate.set(5, 1)}, x2=${referenceDate.add(2, -1)}">
+						<div th:each="post,status : ${#documents.query('select * from Document where type=\'post\' and date &gt;= \'' + #calendars.format(referenceDate, 'yyyy-MM-dd') + '\' order by date')}">
 							<div class="page-header" th:remove="${status.index} == 0 ? 'none' : 'tag'">
 								<a th:href='${rootpath} + ${post.uri}' href='href'>
 									<h1 th:text='${post.title}'>title</h1>
@@ -17,17 +17,28 @@
 							</div>
 													
 							<p th:text='${#dates.format(post.date,"dd MMMM yyyy")}'>date</p>
-							<p th:utext='${post.body}'>body</p>
 						</div>
 							
 						<hr />
 						
 						<p>Ältere Termine sind <a th:href='${rootpath + config.archive_file}' href='href'>archiviert</a>.</p>
 					
-						<hr />
 					</div>
 					
-					<div th:replace="menu.thyme::sidebar"/>
+					<div th:fragment="sidebar" id="sidebar" class="col-md-3" role="complementary">
+						<script type="text/javascript" th:replace="menu.thyme::sidebarScript"/>
+					
+						<div class="sidebar-menu">
+							<ul class="nav nav-pills nav-stacked">
+								<li th:classappend="${content.uri} == 'termine/index.html' ? 'active'">
+									<a th:href="${rootpath} + 'termine/index.html'">Aktuelles</a>
+								</li>
+								<li th:classappend="${content.uri} == 'termine/archive.html' ? 'active'">
+									<a th:href="${rootpath} + 'termine/archive.html'">Archiv</a>
+								</li>
+							</ul>
+						</div>
+					</div>
 					
 				</div>
 			</div>

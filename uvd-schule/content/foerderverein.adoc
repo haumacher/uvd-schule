@@ -3,7 +3,7 @@ title=UvD Förderverein
 category=home
 name=foerderverein
 type=page
-tags=
+tags=Förderverein
 status=published
 ~~~~~~
 == Ansprechpartner

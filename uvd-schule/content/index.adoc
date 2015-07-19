@@ -4,7 +4,7 @@ title=Herzlich willkommen in der Ulrich-von-Dürrmenz-Schule
 category=home
 name=index
 type=page
-tags=
+tags=Allgemein
 status=published
 ~~~~~~
 Wir freuen uns Sie in der Ullrich-von-Dürrmenz Schule begrüßen zu dürfen!

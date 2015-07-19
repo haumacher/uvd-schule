@@ -3,7 +3,7 @@ title=Schulordnung der Ulrich-von-Dürrmenz-Schule Mühlacker
 category=service
 name=schulordnung
 type=page
-tags=
+tags=Schulordnung
 status=published
 date=2007-03-01
 ~~~~~~

@@ -3,7 +3,7 @@ title=Unser Team
 category=home
 name=team
 type=page
-tags=
+tags=Team
 status=published
 ~~~~~~
 == Lehrer

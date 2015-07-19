@@ -46,7 +46,7 @@
 							<div class="collapse navbar-collapse" id="main-navigation">
 								<ul class="nav navbar-nav">
 									<li th:classappend="${pagecategory} == 'termine' ? 'active'">
-										<a th:href="${rootpath} + 'termine/index.html'">Termine</a>
+										<a th:href="${rootpath} + 'termine/index.html'">Aktuelles</a>
 									</li>
 									
 									<th:block th:with="category='profil'">
@@ -160,10 +160,19 @@
 						</th:block>
 					
 						<hr />
+						
+						<p th:fragment="tags" th:if="${content != null and content.tags != null}">
+						Tags: 
+						<th:block th:each="tag,status : ${content.tags}">
+							<th:block th:if="${status.index > 0}">, </th:block>
+							
+							<a th:href="${rootpath} + 'tags/' + ${tag} + '.html'" th:text="${tag}">tag</a>
+						</th:block>
+						</p>
 					</div>
 					
 					<div th:fragment="sidebar" id="sidebar" class="col-md-3" role="complementary">
-						<script type="text/javascript">
+						<script type="text/javascript" th:fragment="sidebarScript">
 							$(window).on('load', function () {
 								$("#sidebar").affix({
 									offset: {

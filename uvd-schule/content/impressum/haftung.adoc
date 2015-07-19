@@ -3,7 +3,7 @@ title=Haftungsausschluss
 category=impressum
 name=haftung
 type=page
-tags=
+tags=Impressum
 status=published
 ~~~~~~
 == Ausschluss der Mitverantwortung 
