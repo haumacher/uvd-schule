@@ -1,5 +1,6 @@
+menutitle=Förderverein
 title=UvD Förderverein
-category=
+category=home
 name=foerderverein
 type=page
 tags=

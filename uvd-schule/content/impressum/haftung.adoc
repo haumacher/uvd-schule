@@ -1,3 +1,4 @@
+index=z
 title=Haftungsausschluss
 category=impressum
 name=haftung

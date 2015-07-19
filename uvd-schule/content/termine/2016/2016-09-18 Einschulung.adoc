@@ -1,5 +1,5 @@
-title=Einschulung 2015
-date=2015-09-18
+title=Einschulung 2016
+date=2016-09-18
 type=post
 tags=schulbeginn
 status=published

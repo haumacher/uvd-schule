@@ -1,3 +1,4 @@
+menutitle=Ferienpläne
 title=Ferienpläne für die Schulen in Mühlacker
 category=service
 name=ferien

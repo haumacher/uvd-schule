@@ -1,3 +1,4 @@
+menutitle=Schulordnung
 title=Schulordnung der Ulrich-von-Dürrmenz-Schule Mühlacker
 category=service
 name=schulordnung

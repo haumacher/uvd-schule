@@ -1,5 +1,6 @@
+index=z
 title=Geschichte
-category=
+category=home
 name=geschichte
 type=page
 tags=

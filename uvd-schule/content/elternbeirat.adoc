@@ -1,5 +1,6 @@
+index=3
 title=Elternbeirat
-category=
+category=home
 name=elternbeirat
 type=page
 tags=

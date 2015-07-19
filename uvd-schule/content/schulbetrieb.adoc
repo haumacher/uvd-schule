@@ -1,5 +1,5 @@
-title=Home
-category=
+title=Schulbetrieb
+category=home
 name=schulbetrieb
 type=page
 tags=

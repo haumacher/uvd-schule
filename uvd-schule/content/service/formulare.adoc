@@ -1,4 +1,5 @@
-title=Formulare zum Download
+menutitle=Formulare
+title=Formulare für den Schulalltag
 category=service
 name=formulare
 type=page

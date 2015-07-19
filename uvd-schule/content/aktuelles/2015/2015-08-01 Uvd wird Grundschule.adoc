@@ -4,7 +4,7 @@ type=post
 tags=aktuelles
 status=published
 ~~~~~~
-== "`... dass nichts bleibt, dass nichts bleibt, wie es war.`" (Hannes Wader)
+== "`... dass nichts bleibt, dass nichts bleibt, wie es war.`" (https://en.wikipedia.org/wiki/Hannes_Wader[Hannes Wader])
 
 Die UvD muss sich verändern. Nachdem in den vergangenen 100 Jahren die Schüler und Schülerinnen in diesem Schulhaus bis zum Schulabschluss geführt wurden, endet diese Phase nun im Juli 2015.
 

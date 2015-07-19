@@ -1,3 +1,4 @@
+menutitle=Basketball-AG
 title=Basketball-AG an der UvD
 category=angebote
 name=basketball

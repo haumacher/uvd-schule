@@ -1,5 +1,6 @@
-title=Team
-category=
+index=2
+title=Unser Team
+category=home
 name=team
 type=page
 tags=

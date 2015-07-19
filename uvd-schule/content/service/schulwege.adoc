@@ -1,3 +1,4 @@
+menutitle=Schulwege
 title=Offizielle Schulwege
 category=service
 name=schulwege

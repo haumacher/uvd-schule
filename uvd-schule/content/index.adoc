@@ -1,11 +1,13 @@
-title=Herzlich Willkommen in der Ulrich-von-Dürrmenz Schule
-category=
+index=1
+menutitle=Home
+title=Herzlich willkommen in der Ulrich-von-Dürrmenz-Schule
+category=home
 name=index
 type=page
 tags=
 status=published
 ~~~~~~
-Wir freuen uns Sie hier begrüßen zu dürfen!
+Wir freuen uns Sie in der Ullrich-von-Dürrmenz Schule begrüßen zu dürfen!
 
 image:/images/startuvd.jpg[]
 
