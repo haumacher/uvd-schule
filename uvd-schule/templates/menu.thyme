@@ -118,7 +118,7 @@
 										</button>
 										<ul th:if="${canedit}" class="dropdown-menu">
 											<li><a href="#">New</a></li>
-											<li><a href="#">Delete</a></li>
+											<li><a href="#" onclick="return jbDeletePage();">Delete</a></li>
 										</ul>
 									</div>
 								</form>
