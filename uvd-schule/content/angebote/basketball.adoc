@@ -6,7 +6,7 @@ type=page
 tags=
 status=published
 ~~~~~~
-:imagesdir: /assets/images
+:imagesdir: /images
 Die Basketball-AG findet dienstags nachmittags im Zeitfenster 15.30 Uhr bis 17.00 Uhr statt und wird von den Kindern sehr positiv angenommen. 
 
 AG-Leiterin ist Sabine Herzog sowie der Basketballcoach Borislav Trinfinov. Bei Fragen zu Schnuppertraining oder sonstigen Fragen/Rückfragen stehen Ihnen folgende Ansprechpartner zur Verfügung:
