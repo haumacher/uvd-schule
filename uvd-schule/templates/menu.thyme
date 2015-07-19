@@ -161,14 +161,16 @@
 					
 						<hr />
 						
-						<p th:fragment="tags" th:if="${content != null and content.tags != null}">
-						Tags: 
+						<th:block th:fragment="tags">
+						<th:block th:if="${not #arrays.isEmpty(content.tags)}">
+						<p>
 						<th:block th:each="tag,status : ${content.tags}">
-							<th:block th:if="${status.index > 0}">, </th:block>
-							
-							<a th:href="${rootpath} + 'tags/' + ${tag} + '.html'" th:text="${tag}">tag</a>
+							<th:block th:if="${status.first}">Tags: </th:block>
+							<a th:href="${rootpath} + 'tags/' + ${tag} + '.html'" th:text="${tag}">tag</a><th:block th:if="${not status.last}">, </th:block>
 						</th:block>
 						</p>
+						</th:block>
+						</th:block>
 					</div>
 					
 					<div th:fragment="sidebar" id="sidebar" class="col-md-3" role="complementary">
