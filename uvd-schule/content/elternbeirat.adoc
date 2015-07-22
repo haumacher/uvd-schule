@@ -6,5 +6,32 @@ type=page
 tags=Elternbeirat
 status=published
 ~~~~~~
-== Ansprechpartner
-== Termine (Auszug aus allen Terminen)
+.Table Mitglieder des Elternbeirats
+[options="header"]
+|===
+| Klasse	|	Name						|	Adresse													|	Telefon								|	E-Mail
+|	1a		|	Tina Krüger					|	Richard-Woerner-Str. 6,		Mühlacker				|	07041/5067456		0179/4710014	|	tina-unterwegs@gmx.de
+|	1a		|	Daniela Weiler				|	Karl-Knöller-Str. 21/1,		Mühlacker				|	07041/7050098						|	d.t.weiler@online.de
+|	1b		|	Tanja Stelzner				|	Rosenweg 10,				Mühlacker				|	07041/8150922						|	Tanja.Stelzner@gmx.net
+|	1b		|	Carmen Chapman				|	Fliederweg 14,				Mühlacker				|	07041/8188994						|	carmen.chapman@web.de
+|	2a		|	Frieder Herbel				|	Wolfackerweg 1,				Mühlacker				|	07041/9380225						|	frieder.herbel@gmx.de
+|	2a		|	Julia Reuter				|	Hundsrücken 32,				Mühlacker				|						0163/6962977	|	reuterjulia@web.de
+|	2b		|	Sevilay Yilmaz				|	Wiernsheimer Str. 52,		Mühlacker				|	07041/813350						|	palamar@hotmail.de
+|	2b		|	Bernhard Haumacher			|	August-Hebenstreit-Str. 16,	Mühlacker				|	07041/9491403						|	haui@haumacher.de
+|	3a		|	Christine Charlotte Pfeifer	|	St.-Andreas-Str. 67,		Mühlacker				|	07041/812587						|	5xpfeifer@web.de
+|	3a		|	Kiriaki Semertzidis			|	St.-Andreas-Str. 55,		Mühlacker				|	07041/863887						|	74kiki@web.de
+|	3b		|	Anke Ernestine Heinrich		|	Haldenstr. 88/1,			Mühlacker				|	07041/816141						|	anke.beutel@gmx.de
+|	3b		|	Diana Schäfer				|	Obere Königstr. 6,			Mühlacker				|						0174/3126581	|	
+|	4a		|	Annemarie Thurm				|	Haldenstr. 90/1,			Mühlacker				|	07041/814230						|	annemarie.thurm@web.de
+|	4a		|	Sabine Di Napoli-Gerg		|	Gladiolenweg 2/1,			Mühlacker				|	07041/8180759						|	bine@freenet.de
+|	7b		|	Sabine Bloch				|	Iglauer Str. 12,			Mühlacker				|	07041/83151							|	sabine_bloch@gmx.de
+|	7b		|	Rosemarie Knapp-Svoboda		|	Öschelbronner Str. 12,		Mühlacker				|	07041/46124							|	Rose.Knapp-S@gmx.de
+|	8a		|	Heike Berger				|	Dresdner Str. 11,			Mühlacker				|	07041/8281377						|	
+|	8a		|	Ljubica Kußmaul				|	Schlehenweg 3,				Mühlacker				|	07042/5740							|	
+|	9a		|	Hasan Pusan					|	Kieselbronner Str. 94,		Mühlacker				|	07041/863417		0176/41653847	|	
+|	9a		|	Heike Lehrer				|	Hofäckerstr. 6/1,			Ötisheim				|	07041/46731			0152/34287278	|	lehrerheike@aol.com
+|	9b		|	Barbara Schwab				|	Jörgenwaag 2,				Mühlacker				|	07041/6641							|	barbara-schwab@gmx.de
+|	9b		|	Elke Beuchle				|	Weiherstr. 10,				Wiernsheim				|	07044/8184472		0176/99398806	|	
+|	10a		|	Bianca Götting				|	Haldenstraße 46,			Mühlacker				|	07041/8299824						|	
+|	10a		|	Silke Lesic					|	Petrus-Waldus-Str. 3/1,		Ötisheim-Schönenberg	|	07041/5429							|	d-lesic@t-online.de
+|===
