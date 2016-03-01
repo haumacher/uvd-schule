@@ -6,4 +6,5 @@ type=page
 tags=Formulare
 status=published
 ~~~~~~
-TODO
+ * Anmeldeformular link:/downloads/Anmeldeformular.pdf[(PDF)], link:/downloads/Anmeldeformular.odt[(ODT)], link:/downloads/Anmeldeformular.doc[(DOC)]
+ 
