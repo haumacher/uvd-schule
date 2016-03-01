@@ -117,7 +117,7 @@
 											<span class="sr-only">Wiki Menu</span>
 										</button>
 										<ul th:if="${canedit}" class="dropdown-menu">
-											<li><a href="#">New</a></li>
+											<li><a href="#" onclick="return jbCreateNew();">New</a></li>
 											<li><a href="#" onclick="return jbDeletePage();">Delete</a></li>
 										</ul>
 									</div>
