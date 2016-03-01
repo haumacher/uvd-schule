@@ -5,4 +5,7 @@ type=page
 tags=Raumplan
 status=published
 ~~~~~~
-TODO
+image:/images/Raumplan.png[Raumplan]
+
+link:/downloads/Raumplan.pdf[(PDF)]
+link:/downloads/Raumplan.xlsx[(XLSX)]
