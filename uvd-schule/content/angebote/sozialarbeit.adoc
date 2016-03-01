@@ -6,18 +6,47 @@ type=page
 tags=Sozialarbeit
 status=published
 ~~~~~~
-Seit 2008 gibt es die Schulsozialarbeit an der Ulrich-von-Dürrmenz-Schule.
-Träger dieser Arbeit ist der Verein http://www.miteinanderleben.de/[miteinanderleben e.V.] in Pforzheim.
 
-Die Schulsozialarbeiterin Stefanie Schneider ist von Montag bis Donnerstag vor Ort, 
-in der Regel von 08:00 Uhr bis 12:30 Uhr, und bietet in dieser Zeit und nach Vereinbarung 
-in Zimmer Nr. 508 Gesprächstermine an. 
+****
+image:/images/StefanieSchneider.jpg[Stefanie Schneider, width=200, float=right]
 
-Kontaktdaten:
+Stefanie Schneider +
+Montag bis Donnerstag 8.00 Uhr – 13.00 Uhr und nach Vereinbarung +
+Zimmer 508 +
+Mobil: 0176 96164689 +
+Festnetz: 07041 8767 70 +
+mailto:Stefanie.Schneider@miteinanderleben.de[]
+****
 
-- stefanie.schneider@miteinanderleben.de
-- 07041 / 8767 70
-- Mobil: 0176 96164689
+Die Schulsozialarbeit ist ein Angebot des Jugend- und Sozialamtes Enzkreis und bietet ein freiwilliges bedarfsorientiertes Beratungsangebot für Schülerinnen und Schüler, Lehrer, Eltern und Angehörige. Sie ist eine präventive Form der Jugendhilfe zur Förderung von Kindern und Jugendlichen im schulpflichtigen Alter.	
+
+Schulsozialarbeit heißt auch Vernetzung der verschiedenen Angebote und Unterstützungs-möglichkeiten in der Region bzw. in der Gemeinde. Die Sozialarbeit an Schulen will dazu beitragen, Schule als "`Lebensort`" zu gestalten. Die rechtlichen Grundlagen für die Jugendhilfe sind im Kinder- und Jugendhilfegesetz – SGB VIII und die der Schule in den Schulgesetzen der Länder zu finden.
+
+Die Schulsozialarbeit:
+
+- stärkt die Persönlichkeit der Schülerinnen und Schüler.
+- Entlastet den schulischen Alltag und gibt Orientierungshilfen bei verschiedenen Lebensfragen (z.B. Jugendhilfe, Übergang Schule-Beruf, Wohnen, Familie etc.).
+- Aktiviert die Eigenkräfte der Adressaten und leistet somit vor allem Hilfe zur Selbsthilfe.
+- Fördert die soziale Kompetenz und Eigenverantwortung von Schülern und Schülerinnen durch gezielte Projekte und Angebote.
+- Baut Schwellenängste gegenüber anderen Hilfesystemen (z.B. Jugendamt, Beratungsstellen etc.) ab.
+- öffnet die Schule für das Gemeinwesen. Sie trägt deswegen zu einer Vernetzung im sozialräumlichen Umfeld der Schule bei.
+
+Die Schulsozialarbeit wird getragen und finanziert durch
+
+image:/images/miteinanderleben.jpg[miteinanderleben e.V., width=150]
+image:/images/enzkreis.jpg[Enzkreis, width=150]
+image:/images/kvjs.jpg[KVJS Komunalverband für Jugend und Soziales Baden-Württemberg, width=150]
+image:/images/StadtMuehlacker.jpg[Stadt Mühlacker, width=150]
+
+.Über miteinanderleben e.V.
+
+Erwachsenenbereich "`Berufliche Begleitung`", Migrationsberatung und Behindertenhilfe. Über unsere Freiwilligenagentur erfolgt die Förderung und Vermittlung von ehrenamtlichen Helfern.
+
+Die Wertschätzung des Menschen steht bei uns an erster Stelle. Wir fördern die Selbstverantwortung und eine größtmögliche Eigenständigkeit nach dem Motto "`So viel Hilfe wie nötig, so wenig Hilfe wie möglich.`" 
+
+Erfahren Sie mehr über miteinanderleben auf unserer Homepage link:http://www.miteinanderleben.de[] oder folgen Sie uns auf Facebook link:https://www.facebook.com/miteinanderlebenev[] 
+
+
 
 Angebote der Schulsozialarbeit sind:
 
@@ -33,4 +62,5 @@ Angebote der Schulsozialarbeit sind:
 * Spielenachmittag für Grundschüler in Zusammenarbeit mit dem Förderverein
 
 Bei Gesprächen besteht grundsätzlich Schweigepflicht.
+
 Ich freue mich über ihre Kontaktaufnahme !
