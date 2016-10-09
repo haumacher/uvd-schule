@@ -1,0 +1,37 @@
+title=Einladung zur Schulkonferenz
+date=2015-05-30
+type=post
+tags=Schulkonferenz
+status=published
+~~~~~~
+Sehr geehrter Herr Klewar, Sehr geehrte Lehrer und Elternbeiräte,
+
+hiermit möchte ich Sie/Euch, nach Absprache mit der Schule, zu der nächsten Schulkonferenz einladen.
+Diese findet am Dienstag, den *01.06.2015* um *15:00* Uhr in der *UvD* statt.
+
+== Agenda
+. Feststellen der Anwesenheit
+. Feststellung der Beschlussfähigkeit
+. Wahl Protokollführer
+. Bericht des Vorsitzenden - Entlastung
+
+=== Seitens der Schule
+. Regionale Schulentwicklung
+. Schillerschule - räumliche Situation im nächsten Schuljahr
+
+=== Seitens der Elternvertreter
+. Bewerbungsverfahren Schulleiter
+. Homepage 
+. Lehrerkapazität 
+. Schulweg
+. Kinderflohmarkt
+. Fußballbereich
+. Anträge
+. Sonstiges
+
+Ich freue mich auf Euer Erscheinen!
+
+
+Mit freundlichen Grüßen
+
+Tina Krüger (Elternbeiratsvorsitzende)

@@ -6,14 +6,19 @@ type=page
 tags=Impressum
 status=published
 ~~~~~~
-== Verantwortlicher für die gestalterische Umsetzung
+Dienstanbieter im Sinne § 5 TMG ist:
 
-=== Ulrich-von-Dürrmenz-Schule
-Rektorin Frau Pfitzer
-
+====
+Ulrich-von-Dürrmenz-Schule +
+Rektor Mathias Klewar +
 Schulstraße 17 +
 75417 Mühlacker
+====
 
-Tel.: 0 70 41 / 87 67 60 +
+Sie erreichen Frau Wezel im Sekretariat auf folgende Weise:
+
+====
+Telefon: 0 70 41 / 87 67 60 +
 Fax: 0 70 41 / 87 67 80 +
-Email: folgt in kürze...
+E-Mail: poststelle@04133140.schule.bwl.de
+====

@@ -1,0 +1,51 @@
+index=zz
+menutitle=TODO
+title=Fehlende Seiten und TODOs
+category=home
+type=page
+tags=Allgemein
+status=published
+~~~~~~
+Auf den folgenden Seiten gibt es noch fehlende Informationen:
+
+* link:/index.html[Home]
+** Begrüßungstext
+** aktuelles Foto
+** besser aufgelöstes Uvd-Logo ohne Pixel-Rauschen
+* link:team.html[Team]
+** Lehrerliste
+** Mitarbeiterbild
+* link:/elternbeirat.html[Elternbeirat]
+** Einleitender Text zum Elternbeirat
+** Tabelle muss nach der nächsten Sitzung aktualisiert werden.
+* link:/schulbetrieb[Schulbetrieb]
+** Regelschulbetrieb
+** Kernzeit
+** Kooperation KiGa
+** Lesepaten
+** Lernbegleiter
+* link:/geschichte[Geschichte]
+** Text prüfen
+* link:/termine/index.html[Termine]
+** Daueraufgabe: Termine/Einladungen rechtzeitig mailen, damit die Homepage auch lebt. Z.B.:
+*** Schuljahr (erster und letzter Schultag)
+*** Ferien und bewegliche Ferientage
+*** Einschulung
+*** Elternabende
+*** Schulfeste
+*** Auftritte (z.B. Chor)
+* link:profil/index.html[Profil]
+** Fehlt.
+* link:angebote/kernzeit.html[Kernzeit]
+** Fehlt.
+* link:angebote/handball.html[Handball]
+** Fehlt.
+* link:angebote/chor.html[Chor]
+** Fehlt.
+* Liste der AGs aktualisieren
+** Es gibt keine Näh-AG?
+** Forscher AG!
+* link:service/schulwege.html[Schulwege]
+** Fehlt.
+* Abnahme der Seite vor der Veröffentlichung
+

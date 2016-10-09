@@ -11,7 +11,7 @@ status=published
 image:/images/StefanieSchneider.jpg[Stefanie Schneider, width=200, float=right]
 
 Stefanie Schneider +
-Montag bis Donnerstag 8.00 Uhr – 13.00 Uhr und nach Vereinbarung +
+Montag bis Donnerstag 8.00 Uhr - 13.00 Uhr und nach Vereinbarung +
 Zimmer 508 +
 Mobil: 0176 96164689 +
 Festnetz: 07041 8767 70 +

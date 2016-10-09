@@ -1,0 +1,9 @@
+title=Sitzung des Elternbeirates
+date=2016-03-07
+type=post
+tags=Elternbeiratssitzung
+status=published
+~~~~~~
+Der Elternbeirat triff sich am 07.03.2016 um 19:00 im Musiksaal.
+
+Update: Das link:/aktuelles/2016/2016-03-07%20Elternbeiratssitzung%20Protokoll.pdf[Protokoll] der Sitzung.

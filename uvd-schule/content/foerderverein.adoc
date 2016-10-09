@@ -1,11 +1,46 @@
 menutitle=Förderverein
-title=UvD Förderverein
+title=Förderverein UvD
 category=home
 name=foerderverein
 type=page
 tags=Förderverein
 status=published
 ~~~~~~
-== Ansprechpartner
-== Beitritt
-== Links
+image::foerderverein/logo-foerderverein.png[Logo, 180, 180, float="right"]
+Unser Schulförderverein wurde 2009 gegründet. Seitdem stärken und unterstützen wir in vielfältiger Art und Weise die Zusammenarbeit zwischen Schule, Schülern und Eltern. Die Förderung umfasst ein weites Spektrum und setzt da an, wo Hilfe benötigt wird und aus dem üblichen Schuletat finanziell nicht zu leisten ist. Wir engagieren uns für Projekte, die das Arbeiten im Unterricht unterstützen, den Zusammenhalt im Klassenverband stärken und für ein gutes Klima an der Schule sorgen. Wir engagieren uns und übernehmen gemeinsam Verantwortung für eine gesunde Entwicklung unserer Kinder.
+
+* Unterstützung von Schulprojekten (z.B. Zirkusprojekt)
+* Schülertreff / Spielenachmittage
+* Beihilfe und Förderung schwacher und starker Schülerinnen und Schüler
+* Langfristige, nachhaltige Gewalt-Präventionskurse
+* Öffentliche Veranstaltungen (z.B. Tag der offenen Tür)
+* Musische Veranstaltungen (z.B. im künstlerischen und musikalischen Bereich)
+
+Vgl. die link:foerderverein/2011-06-06%20Satzung%20Foerderverein%20UvD.pdf[Satzung] des Vereins.
+
+=== Finanzen
+
+Der Schulförderverein finanziert sich durch Mitgliedsbeiträge, Spenden und Erlösen aus Veranstaltungen. Alle Einnahmen kommen zu 100% den Schülerinnen und Schülern zu Gute!
+
+=== Beitritt
+
+Werden auch Sie Fördermitglied! Ihren Beitritt um Förderverein der Ulrich-von-Dürrmenz-Schule können Sie durch Ausfüllen des link:foerderverein/Beitrittsformular%20Foerderverein.pdf[Beitrittsformulars] erklären. Das ausgefüllte Beitrittsformular kann im Sekretariat der Schule abgegeben werden.
+
+Der Einzelmitgliedsbeitrag beträgt 15,-- EUR pro Jahr, auch Spenden sind willkommen.
+
+Als anerkannter gemeinnütziger Verein stellen wir auf Wunsch eine Spendenquittung aus, die steuerlich geltend gemacht werden kann.
+
+=== Ansprechpartner
+
+Vorsitzende des Fördervereins sind Bernhard Haumacher (1. Vorsitzender) und Sabine Herzog (2. Vorsitzende). Als Kassenwart fungiert Gabi Hirt.
+
+=== Kontakt
+
+Den Förderverein können Sie per E-Mail an link:mailto:uvdfoerderverein@web.de[uvdfoerderverein@web.de] oder per Brief an die folgende Adresse erreichen:
+
+====
+Förderverein +
+Ulrich-von-Dürrmenz-Schule, e.V. +
+Schulstraße 17 +
+75417 Mühlacker +
+====
