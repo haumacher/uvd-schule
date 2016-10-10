@@ -1,0 +1,8 @@
+title=Tanz-AG
+category=angebote
+name=tanz
+type=page
+tags=Tanz,AG
+status=published
+~~~~~~
+Die Tanz-AG probt immer Donnerstags zwischen 14:30 und 16:00 Uhr.

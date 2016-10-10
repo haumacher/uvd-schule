@@ -13,7 +13,6 @@ Auf den folgenden Seiten gibt es noch fehlende Informationen:
 ** aktuelles Foto
 ** besser aufgelöstes Uvd-Logo ohne Pixel-Rauschen
 * link:team.html[Team]
-** Lehrerliste
 ** Mitarbeiterbild
 * link:/elternbeirat.html[Elternbeirat]
 ** Einleitender Text zum Elternbeirat

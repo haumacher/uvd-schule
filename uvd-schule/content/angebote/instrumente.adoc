@@ -1,0 +1,8 @@
+title=Musik-AG
+category=angebote
+name=musik
+type=page
+tags=Musik,AG
+status=published
+~~~~~~
+In der Musik-AG haben die Kinder die Möglichkeit verschiedene Instrumente zu lernen. Zur Auswahl stehen Flöte, Querflöte, Trompete, Saxofon und Trommel. Die Musik-AG probt immer Donnerstags zwischen 15:00 und 16:00 Uhr.

@@ -2,8 +2,7 @@ title=Schulchor
 category=angebote
 name=chor
 type=page
-tags=Schulchor
+tags=Schulchor,AG
 status=published
 ~~~~~~
-
-
+Der Schulchor probt jeden Mittwoch in der 6. Stunde von 12:05 -12:50 im Musiksaal. Die Leitung hat Frau Philippzig.
