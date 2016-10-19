@@ -6,7 +6,7 @@ type=page
 tags=Geschichte
 status=published
 ~~~~~~
-== Wer war Ullrich von Dürrmenz
+== Wer war Ulrich von Dürrmenz
 
 Die erste bedeutende Person ist der hochadlige 
 http://de.wikipedia.org/wiki/Ulrich_I._von_D%C3%BCrrmenz[Ulrich von Dürrmenz]. 

@@ -4,4 +4,4 @@ type=post
 tags=Laternenlauf
 status=published
 ~~~~~~
-Der diesjährige Laternenlauf findet zusammen mit dem Kindergarten am Donnerstag den 10.11.2016 von 17:30 bis 18:30 Uhr statt.
+Der diesjährige Laternenlauf findet zusammen mit dem St. Andreas Kindergarten am Donnerstag den 10.11.2016 von 17:30 bis 18:30 Uhr statt. Im Anschluss laden die 4. Klasse auf dem Schulhof zu einem gemütlichen Ausklang, mit Kuchen, Würstchen und warmen und kalten Getränken ein.

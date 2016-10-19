@@ -16,7 +16,6 @@ Auf den folgenden Seiten gibt es noch fehlende Informationen:
 ** Mitarbeiterbild
 * link:/elternbeirat.html[Elternbeirat]
 ** Einleitender Text zum Elternbeirat
-** Tabelle muss nach der nächsten Sitzung aktualisiert werden.
 * link:/schulbetrieb[Schulbetrieb]
 ** Regelschulbetrieb
 ** Kernzeit
@@ -38,12 +37,14 @@ Auf den folgenden Seiten gibt es noch fehlende Informationen:
 * link:angebote/kernzeit.html[Kernzeit]
 ** Fehlt.
 * link:angebote/handball.html[Handball]
-** Fehlt.
+** rudimentär.
 * link:angebote/chor.html[Chor]
-** Fehlt.
-* Liste der AGs aktualisieren
-** Es gibt keine Näh-AG?
-** Forscher AG!
+** rudimentär.
+* link:angebote/handball.html[Handball]
+** rudimentär.
+* link:angebote/forscher-ag.html[Forscher AG]
+** rudimentär.
+* Liste der AGs aktualisieren/prüfen
 * link:service/schulwege.html[Schulwege]
 ** Fehlt.
 * Abnahme der Seite vor der Veröffentlichung

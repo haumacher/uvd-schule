@@ -1,0 +1,8 @@
+title=Forscher AG
+category=angebote
+name=forscher-ag
+type=page
+tags=Forscher,AG
+status=published
+~~~~~~
+Die Forscher der Forscher-AG erkunden Phänomene in Natur, Umwelt und Physik immer Dienstags zwischen 14:00 und 15:30 Uhr. Kinder in den Klassenstufen 3 und 4 sind eingeladen.

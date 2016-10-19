@@ -1,7 +1,0 @@
-title=Einschulung 2017
-date=2017-09-18
-type=post
-tags=Einschulung
-status=published
-~~~~~~
-Ist noch zu weit weg.

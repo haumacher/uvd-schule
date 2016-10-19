@@ -1,0 +1,15 @@
+title=Klasse 2000
+category=profil
+index=1
+name=klasse2000
+type=page
+tags=Klaro, Klasse2000
+status=published
+~~~~~~
+image::klasse2000.jpg[Klasse 2000, 240, 200, float=right, link=http://www.klasse2000.de/]
+Unsere Schule nimmt an dem Projekt http://www.klasse2000.de/[Klasse 2000] - dem in Deutschland am weitesten verbreiteten Unterrichtsprogramm zur Gesundheitsförderung, Sucht- und Gewaltvorbeugung in der Grundschule - teil.
+
+/////
+Domain existiert nicht: http://www.kiju-enzkreis.de/
+/////
+Die Teilnahme der Schule am Programm Klasse 2000 wird unterstützt vom http://www.pfenz.de/wiki/Kinder-_und_Jugendf%C3%B6rderverein_Enzkreis_e%2EV%2E[Kinder -und Jugendförderverein] und dem link:/foerderverein.html[Förderverein UvD].
