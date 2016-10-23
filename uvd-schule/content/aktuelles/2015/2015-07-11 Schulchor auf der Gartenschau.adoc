@@ -1,4 +1,4 @@
-title=Aufführung des Schulchors "Eine Freundschaft in der Savanne"
+title=Aufführung „Eine Freundschaft in der Savanne“
 date=2015-07-11
 type=post
 tags=Chor,Aufführung
