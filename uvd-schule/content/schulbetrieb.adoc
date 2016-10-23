@@ -10,25 +10,25 @@ Die Unterrichtszeiten ab 09/2016 sind wie folgt eingeteilt:
 
 [options=""]
 |===
-|  7:30 - 7:45 Uhr 	| _Ankommen auf dem Schulhof_
+| _Ankommen auf dem Schulhof_ |  7:30 - 7:45 Uhr 	
 
-| 7:45 - 8:30 Uhr 		| *1. Stunde*
-| 8:30 - 9:15 Uhr 		| *2. Stunde*
+| *1. Stunde* | 7:45 - 8:30 Uhr 		
+| *2. Stunde* | 8:30 - 9:15 Uhr 		
 
-| 9:15 - 9:30 Uhr 		| _große Pause_
+| _große Pause_ | 9:15 - 9:30 Uhr 		
 
-|   9:30 - 10:15 Uhr 		| *3. Stunde*
-| 10:15 - 11:00 Uhr 		| *4. Stunde*
+| *3. Stunde* |   9:30 - 10:15 Uhr 		
+| *4. Stunde*| 10:15 - 11:00 Uhr 		
 
-| 11:00 - 11:20 Uhr 		| _Bewegungspause_
+| _Bewegungspause_ | 11:00 - 11:20 Uhr 		
 
-| 11:20 - 12:05 Uhr 		| *5. Stunde*
-| 12:05 - 12:50 Uhr 		| *6. Stunde*
+| *5. Stunde* | 11:20 - 12:05 Uhr 		
+| *6. Stunde* | 12:05 - 12:50 Uhr 		
 
-| 12:50 - 13:15 Uhr 		| _Mittagspause_
+| _Mittagspause_ | 12:50 - 13:15 Uhr 		
 
-| 13:15 - 14:00 Uhr 		| *7. Stunde*
-| 14:00 - 14:45 Uhr 		| *8. Stunde*
-| 14:45 - 15:30 Uhr 		| *9. Stunde*
+| *7. Stunde* | 13:15 - 14:00 Uhr 		
+| *8. Stunde* | 14:00 - 14:45 Uhr 		
+| *9. Stunde* | 14:45 - 15:30 Uhr 		
 |===
 
