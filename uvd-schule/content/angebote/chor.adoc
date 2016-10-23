@@ -5,7 +5,9 @@ type=page
 tags=Chor,AG
 status=published
 ~~~~~~
-Der Schulchor probt jeden Mittwoch in der 6. Stunde von 12:05 -12:50 Uhr unter der Leitung von Frau Philippzig im Musiksaal.
+Alle Kinder aus den Klassen 2,3 und 4 sind herzliche zum Mitsingen in unserem Schulchor eingeladen!      
+
+Der Schulchor probt im laufenden Schuljahr (16/17) immer mittwochs in der 6. Stunde (12.05 Uhr bis 12.50 Uhr) im Musiksaal.
 
 [cols="1,3", options=""]
 |===
@@ -13,10 +15,15 @@ Der Schulchor probt jeden Mittwoch in der 6. Stunde von 12:05 -12:50 Uhr unter d
 
 | Ort | link:/service/raumplan.html[Musiksaal]
 
-| Ansprechpartner | Frau Philippzig 
+| Leitung | Annette Philippzig +
+Susanne Uhl
 
 | Kontakt | 
 |===
+
+Aktuell proben wir ein weihnachtliches Theaterstück „Der Stern, der nicht leuchten wollte“ - mit Liedern, Instrumentalbeiträgen und einem Sternentanz, das wir am Samstag, 26.11.2016, um 17.00 Uhr in Kooperation mit der Sängergemeinschaft Liederkranz und dem http://tup-muehlacker.de/[Verein TuP] in der Andreaskirche aufführen werden. 
+
+Eine Übersicht über alle Events des Schulchors gibt es link:/tags/Chor[hier].
 
 .Aufführung "Eine Freundschaft in der Savanne" auf der Gartenschau 2015
 image::2015-07-11%20Chor%20auf%20Gartenschau%2001.JPG[Eine Freundschaft in der Savanne]
