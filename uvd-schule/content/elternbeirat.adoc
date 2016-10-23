@@ -1,6 +1,6 @@
-index=3
+index=2b
 title=Elternbeirat
-category=home
+category=profil
 name=elternbeirat
 type=page
 tags=Elternbeirat

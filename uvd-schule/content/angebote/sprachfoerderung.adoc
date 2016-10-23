@@ -1,0 +1,47 @@
+title=Sprachförderung
+name=sprachfoerderung
+category=angebote
+index=3a
+date=
+type=page
+tags=Sprachförderung
+status=published
+~~~~~~
+Um für alle Kinder eine optimale Ausgangsvoraussetzung für die Teilname am Unterricht zu schaffen, bietet die Schule ein Sprachförderprogamm an. Die Kurse zur Sprachförderung werden von Frau Boger und Frau Fanz durchgeführt.
+
+
+[options="header", cols="1,5,2"]
+|===
+| Klasse | Termin | Lehrkraft
+
+| 1a | Montag 7:30 - 8:30 Uhr       | Frau Fanz
+|    | Donnerstag 7:30 - 8:30 Uhr   | Frau Fanz
+|    | Freitag 7:30 - 8:15 Uhr      | Frau Fanz
+|    | Dienstag 7:30 - 8:30 Uhr     | Frau Boger
+
+| 1b | Montag 8:30 - 9:15 Uhr       | Frau Fanz
+|    | Donnerstag 8:30 - 9:15 Uhr   | Frau Fanz
+|    | Freitag 8:15 - 9:15 Uhr      | Frau Fanz
+
+| 2a | Dienstag 7:30 - 8:30 Uhr     | Frau Boger
+|    | Donnerstag 12:05 - 13:35 Uhr | Frau Boger
+
+| 2b | Montag 7:30 - 8:30 Uhr       | Frau Fanz
+|    | Donnerstag 7:30 - 8:30 Uhr   | Frau Fanz
+|    | Freitag 7:30 - 8:15 Uhr      | Frau Fanz
+|    | Donnerstag 12:05 - 13:35 Uhr | Frau Boger
+
+| 3a | Montag 12:05 - 13:05 Uhr     | Frau Boger
+|    | Montag 14:00 - 15:30 Uhr     | Frau Boger
+|    | Donnerstag 7:30 - 8:30 Uhr   | Frau Boger
+
+| 3b | Montag 12:05 - 13:05 Uhr     | Frau Boger
+|    | Montag 14:00 - 15:30 Uhr     | Frau Boger
+|    | Mittwoch 14:00 - 15:30 Uhr   | Frau Boger
+
+| 4a | Dienstag 14:00 - 15:30 Uhr   | Frau Boger
+|    | Donnerstag 14:00 - 15:00 Uhr | Frau Boger
+
+| 4b | Dienstag 14:00 - 15:30 Uhr   | Frau Boger
+|    | Donnerstag 14:00 - 15:00 Uhr | Frau Boger
+|===

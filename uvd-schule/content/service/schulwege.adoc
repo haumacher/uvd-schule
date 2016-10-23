@@ -6,4 +6,5 @@ type=page
 tags=Schulwege
 status=published
 ~~~~~~
-TODO
+.Schulwegeplan link:Schulwege.pdf[(als PDF herunterladen)]
+image::Schulwege.png[Schulwegeplan]

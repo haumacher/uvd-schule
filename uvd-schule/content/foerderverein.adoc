@@ -1,6 +1,7 @@
 menutitle=Förderverein
 title=Förderverein UvD
-category=home
+category=profil
+index=2c
 name=foerderverein
 type=page
 tags=Förderverein

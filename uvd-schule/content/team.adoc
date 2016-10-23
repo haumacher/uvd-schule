@@ -1,6 +1,6 @@
-index=2
+index=2a
 title=Unser Team
-category=home
+category=profil
 name=team
 type=page
 tags=Team

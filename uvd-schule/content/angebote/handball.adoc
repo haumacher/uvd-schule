@@ -1,9 +1,13 @@
 title=Handball-AG
-category=angebote
+category=ag
 name=handball
 type=page
 tags=Handball,AG
 status=published
 ~~~~~~
-Die Handball-AG trainiert Montags zwischen 14:30 und 15:30 Uhr (für die Klassen 1 und 2) und ebenfalls Montags zwischen 
-15:30 und 16:30 Uhr (für die Klassen 3 und 4).
+Die Handball-AG trainiert *Montags zwischen 14:30 und 15:30 Uhr* (für die Klassen 1 und 2) und ebenfalls *Montags zwischen 
+15:30 und 16:30 Uhr* (für die Klassen 3 und 4) in der Sporthalle.
+
+Die Leitung der Handball-AG hat Herr Schlegel vom http://www.handball-muehlacker.de/[HC Blaugelb]
+
+  Tel. 0176 80050624

@@ -6,5 +6,5 @@ type=page
 tags=Formulare
 status=published
 ~~~~~~
- * Anmeldeformular link:/downloads/Anmeldeformular.pdf[(PDF)], link:/downloads/Anmeldeformular.odt[(ODT)], link:/downloads/Anmeldeformular.doc[(DOC)]
+ * Schulanmeldung link:/downloads/Anmeldeformular.pdf[(PDF)], link:/downloads/Anmeldeformular.odt[(ODT)], link:/downloads/Anmeldeformular.doc[(DOC)]
  

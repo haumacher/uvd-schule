@@ -1,5 +1,5 @@
 title=Musik-AG
-category=angebote
+category=ag
 name=musik
 type=page
 tags=Musik,AG

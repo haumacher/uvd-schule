@@ -51,7 +51,7 @@
 									
 									<th:block th:with="category='profil'">
 									<li th:classappend="${pagecategory} == ${category} ? 'active'">
-										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Profil <span class="caret"></span></a>
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Schule <span class="caret"></span></a>
 										
 										<ul class="dropdown-menu" role="menu">
 											<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
@@ -68,6 +68,22 @@
 									<th:block th:with="category='angebote'">
 									<li th:classappend="${pagecategory} == ${category} ? 'active'">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Angebote <span class="caret"></span></a>
+										
+										<ul class="dropdown-menu" role="menu">
+											<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
+												<th:block th:if="${document.category} == ${category}">
+													<li>
+														<a th:href="${rootpath} + ${document.uri}" th:text="${document.menutitle} ?: ${document.title}">Title</a>
+													</li>
+												</th:block>
+											</th:block>
+										</ul>
+									</li>
+									</th:block>
+									
+									<th:block th:with="category='ag'">
+									<li th:classappend="${pagecategory} == ${category} ? 'active'">
+										<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">AGs <span class="caret"></span></a>
 										
 										<ul class="dropdown-menu" role="menu">
 											<th:block th:each="document : ${#lists.sort(published_content, #documents.collator('index|menutitle|title'))}">
@@ -122,12 +138,6 @@
 										</ul>
 									</div>
 								</form>
-
-								<ul class="nav navbar-nav navbar-right">
-									<li th:classappend="${pagecategory} == 'impressum' ? 'active'">
-										<a th:href="${rootpath} + 'impressum/'">Impressum</a>
-									</li>
-								</ul>
 
 							</div>
 						</div>

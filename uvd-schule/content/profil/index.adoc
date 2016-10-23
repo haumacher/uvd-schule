@@ -1,9 +1,0 @@
-title=Profil
-category=profil
-index=0
-name=index
-type=page
-tags=Profil
-status=published
-~~~~~~
-Unser Profil

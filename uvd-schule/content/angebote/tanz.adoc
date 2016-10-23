@@ -1,5 +1,5 @@
 title=Tanz-AG
-category=angebote
+category=ag
 name=tanz
 type=page
 tags=Tanz,AG

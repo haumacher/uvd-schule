@@ -10,32 +10,26 @@ Auf den folgenden Seiten gibt es noch fehlende Informationen:
 
 * link:/index.html[Home]
 ** Begrüßungstext
+** Text zur Geschichte prüfen
+* link:angebote/kernzeit.html[Kernzeit]
+** Fehlt.
+* Abnahme der Seite vor der Veröffentlichung
+
+=== Weitere Aufgaben
+* link:/service/raumplan.html[Raumplan]
+** Update im Grundriss der Schule
+* link:/index.html[Home]
 ** aktuelles Foto
 ** besser aufgelöstes Uvd-Logo ohne Pixel-Rauschen
 * link:team.html[Team]
 ** Mitarbeiterbild
-* link:/elternbeirat.html[Elternbeirat]
-** Einleitender Text zum Elternbeirat
+** E-Mails der Mitarbeiter (Alias name@uvd-schule.de)
 * link:/schulbetrieb[Schulbetrieb]
-** Regelschulbetrieb
-** Kernzeit
 ** Kooperation KiGa
 ** Lesepaten
 ** Lernbegleiter
-* link:/geschichte[Geschichte]
-** Text prüfen
-* link:/termine/index.html[Termine]
-** Daueraufgabe: Termine/Einladungen rechtzeitig mailen, damit die Homepage auch lebt. Z.B.:
-*** Schuljahr (erster und letzter Schultag)
-*** Ferien und bewegliche Ferientage
-*** Einschulung
-*** Elternabende
-*** Schulfeste
-*** Auftritte (z.B. Chor)
-* link:profil/index.html[Profil]
-** Fehlt.
-* link:angebote/kernzeit.html[Kernzeit]
-** Fehlt.
+* link:/elternbeirat.html[Elternbeirat]
+** Einleitender Text zum Elternbeirat
 * link:angebote/handball.html[Handball]
 ** rudimentär.
 * link:angebote/chor.html[Chor]
@@ -44,8 +38,12 @@ Auf den folgenden Seiten gibt es noch fehlende Informationen:
 ** rudimentär.
 * link:angebote/forscher-ag.html[Forscher AG]
 ** rudimentär.
-* Liste der AGs aktualisieren/prüfen
-* link:service/schulwege.html[Schulwege]
-** Fehlt.
-* Abnahme der Seite vor der Veröffentlichung
+* link:/termine/index.html[Termine]
+** Daueraufgabe: Termine/Einladungen rechtzeitig mailen, damit die Homepage auch lebt. Z.B.:
+*** Schuljahr (erster und letzter Schultag)
+*** Ferien und bewegliche Ferientage
+*** Einschulung
+*** Elternabende
+*** Schulfeste
+*** Auftritte (z.B. Chor)
 

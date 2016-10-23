@@ -1,7 +1,7 @@
-index=2
+index=2aa
 menutitle=Schulsozialarbeit
 title=Schulsozialarbeit an der Ulrich-von-Dürrmenz Schule
-category=angebote
+category=profil
 name=sozialarbeit
 type=page
 tags=Sozialarbeit

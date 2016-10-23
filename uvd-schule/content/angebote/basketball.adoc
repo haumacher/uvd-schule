@@ -1,13 +1,13 @@
 menutitle=Basketball-AG
 title=Basketball-AG an der UvD
-category=angebote
+category=ag
 name=basketball
 type=page
 tags=Basketball, AG
 status=published
 ~~~~~~
 :imagesdir: /images
-Die Basketball-AG findet Mittwoch 15:30 - 17:00 Uhr statt und wird von den Kindern sehr positiv angenommen. 
+Die Basketball-AG findet Mittwoch 15:30 - 17:00 Uhr in der Sporthalle statt. Alle Kinder der Klassenstufen 1 bis 4 sind eingeladen. 
 
 AG-Leiterin ist Sabine Herzog sowie der Basketballcoach Borislav Trinfinov. Bei Fragen zu Schnuppertraining oder sonstigen Fragen/Rückfragen stehen Ihnen folgende Ansprechpartner zur Verfügung:
 

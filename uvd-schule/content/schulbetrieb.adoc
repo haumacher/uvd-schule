@@ -1,9 +1,34 @@
-title=Schulbetrieb
-category=home
+title=Unterrichtszeiten
+category=profil
+index=1b
 name=schulbetrieb
 type=page
 tags=Schulbetrieb
 status=published
 ~~~~~~
-== Regelschulbetrieb
-== Kernzeit
+Die Unterrichtszeiten ab 09/2016 sind wie folgt eingeteilt:
+
+[options=""]
+|===
+|  7:30 - 7:45 Uhr 	| _Ankommen auf dem Schulhof_
+
+| 7:45 - 8:30 Uhr 		| *1. Stunde*
+| 8:30 - 9:15 Uhr 		| *2. Stunde*
+
+| 9:15 - 9:30 Uhr 		| _große Pause_
+
+|   9:30 - 10:15 Uhr 		| *3. Stunde*
+| 10:15 - 11:00 Uhr 		| *4. Stunde*
+
+| 11:00 - 11:20 Uhr 		| _Bewegungspause_
+
+| 11:20 - 12:05 Uhr 		| *5. Stunde*
+| 12:05 - 12:50 Uhr 		| *6. Stunde*
+
+| 12:50 - 13:15 Uhr 		| _Mittagspause_
+
+| 13:15 - 14:00 Uhr 		| *7. Stunde*
+| 14:00 - 14:45 Uhr 		| *8. Stunde*
+| 14:45 - 15:30 Uhr 		| *9. Stunde*
+|===
+

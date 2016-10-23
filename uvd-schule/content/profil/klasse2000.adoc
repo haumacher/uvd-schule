@@ -1,6 +1,6 @@
 title=Klasse 2000
-category=profil
-index=1
+category=angebote
+index=3b
 name=klasse2000
 type=page
 tags=Klaro, Klasse2000
