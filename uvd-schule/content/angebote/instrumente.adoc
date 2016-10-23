@@ -6,3 +6,88 @@ tags=Musik,AG
 status=published
 ~~~~~~
 In der Musik-AG haben die Kinder die Möglichkeit verschiedene Instrumente zu lernen. Zur Auswahl stehen Flöte, Querflöte, Trompete, Saxofon und Trommel. Die Musik-AG probt immer Donnerstags zwischen 15:00 und 16:00 Uhr.
+
+=== Trommeln Fortgeschrittene
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 14:30 - 15:15 Uhr
+
+| Ort | link:/service/raumplan.html[Musiksaal]
+
+| Ansprechpartner | Herr Lauer
+
+| Kontakt | 
+|===
+
+=== Trommeln Anfänger
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 15:15 - 16:00 Uhr
+
+| Ort | link:/service/raumplan.html[Musiksaal]
+
+| Ansprechpartner | Herr Lauer
+
+| Kontakt | 
+|===
+
+=== Querflöte 
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 15:00 - 15:45 Uhr
+
+| Ort | link:/service/raumplan.html[Altbau 2. Stock, 4. Kl.]
+
+| Ansprechpartner | Stollberg
+
+| Kontakt | 
+|===
+
+=== Flöte Anfänger
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 14:30 - 15:15 Uhr
+
+| Ort | link:/service/raumplan.html[Altbau 2. Stock, 4. Kl.]
+
+| Ansprechpartner | Stollberg
+
+| Kontakt | 
+|===
+
+=== Flöte Fortgeschrittene
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 15:15 - 16:00 Uhr
+
+| Ort | link:/service/raumplan.html[Altbau 2. Stock, 4. Kl.]
+
+| Ansprechpartner | Werth
+
+| Kontakt | 
+|===
+
+=== Trompete
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 15:00 - 15:45 Uhr
+
+| Ort | link:/service/raumplan.html[Neubau oberster Stock]
+
+| Ansprechpartner | Sanchez
+
+| Kontakt | 
+|===
+
+=== Saxofon
+[cols="1,3", options=""]
+|===
+| Termin | Donnerstag 15.00 - 15:45 Uhr
+
+| Ort | link:/service/raumplan.html[]
+
+| Ansprechpartner | Klewar
+
+| Kontakt | 
+|===
+

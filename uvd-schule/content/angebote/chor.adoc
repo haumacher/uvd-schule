@@ -5,7 +5,18 @@ type=page
 tags=Chor,AG
 status=published
 ~~~~~~
-Der Schulchor probt jeden Mittwoch in der 6. Stunde von 12:05 -12:50 unter der Leitung von Frau Philippzig im Musiksaal.
+Der Schulchor probt jeden Mittwoch in der 6. Stunde von 12:05 -12:50 Uhr unter der Leitung von Frau Philippzig im Musiksaal.
+
+[cols="1,3", options=""]
+|===
+| Termin | Mittwoch 6. Stunde 12:05 -12:50 Uhr
+
+| Ort | link:/service/raumplan.html[Musiksaal]
+
+| Ansprechpartner | Frau Philippzig 
+
+| Kontakt | 
+|===
 
 .Aufführung "Eine Freundschaft in der Savanne" auf der Gartenschau 2015
 image::2015-07-11%20Chor%20auf%20Gartenschau%2001.JPG[Eine Freundschaft in der Savanne]

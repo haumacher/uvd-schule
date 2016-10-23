@@ -11,8 +11,16 @@ Die Basketball-AG findet Mittwoch 15:30 - 17:00 Uhr in der Sporthalle statt. All
 
 AG-Leiterin ist Sabine Herzog sowie der Basketballcoach Borislav Trinfinov. Bei Fragen zu Schnuppertraining oder sonstigen Fragen/Rückfragen stehen Ihnen folgende Ansprechpartner zur Verfügung:
 
-Sabine Herzog <Sab.Herzog@t-online.de> +
-Handy: 0160/91233737
+[cols="1,3", options=""]
+|===
+| Termin | Mittwoch 15:30 - 17:00 Uhr
+
+| Ort | link:/service/raumplan.html[Sporthalle]
+
+| Ansprechpartner | Sabine Herzog <Sab.Herzog@t-online.de>
+
+| Kontakt | Handy: 0160/91233737
+|===
 
 Wir freuen uns auf Euch!
 
