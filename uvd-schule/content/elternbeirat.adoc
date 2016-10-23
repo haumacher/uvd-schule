@@ -17,22 +17,22 @@ status=published
 [options="header"]
 |===
 | Klasse | Name | Adresse | Telefon | Handy | E-Mail |
-| 1a | Oliver Korn | 75417 Mühlacker  | 8188230 | 015236831624 | deroliverkorn@web.de |
 | 1a | Seemal Brandt | Hörnlestr 1, 75417 Mühlacker Lomersheim | 8281883 | 017697339643 | seemal_naphade@yahoo.com |
-| 1b |   |    |  |  |  |
-| 1b |   |    |  |  |  |
+| 1a | Oliver Korn | 75417 Mühlacker  | 8188230 | 015236831624 | deroliverkorn@web.de |
+| 1b | Ataman-Mancuso Adriana | Lilienweg  1, 75417 Mühlacker Dürrmenz | 9493761 | 017052620269 | adriana2206@hotmail.de |
+| 1b | Miriam Richter | Im Käppele 3, 75417 Mühlacker  | 9490926 |  | miriam-christoph-richter@web.de |
 | 2a | Rebecca Kientsch | Ludwig-Lenz-Str. 13, 75417 Mühlacker Dürrmenz | 814497 | 0170/3143899 | achim.kientsch@gmx.net |
 | 2a | Melani Putz | Ernst-Händle-Str. 33, 75417 Mühlacker Dürrmenz | 940934 | 0176/54953000 | melaniputz@t-online.de |
-| 2b | Annemarie Thurm | Haldenstr. 90/1, 75417 Mühlacker Dürrmenz | 814230 |  | annemarie.thurm@web.de |
 | 2b | Sybille  Gahn | Bodenrainweg  13, 75417 Mühlacker Dürrmenz | 815688 | 0151/10771023 | mga-sys@t-online.de  |
+| 2b | Annemarie Thurm | Haldenstr. 90/1, 75417 Mühlacker Dürrmenz | 814230 |  | annemarie.thurm@web.de |
 | 3a | Anke Ernestine Heinrich | Haldenstr. 88/1, 75417 Mühlacker Dürrmenz | 816141 | 0160/6990533 | anke.beutel@gmx.de |
 | 3a | Tina Krüger | Richard-Woerner-Str. 6, 75417 Mühlacker Dürrmenz | 5067456 | 0179/4710014 | tina-unterwegs@gmx.de |
-| 3b | Tanja Stelzner | Rosenweg 10, 75417 Mühlacker Dürrmenz | 8150922 | 0176/61097053 | Tanja.Stelzner@gmx.net |
 | 3b | Jacqueline Holler | Geißbergweg 7, 75417 Mühlacker Lomersheim | 860069 | 0176/63131948 | holler-bau@web.de |
+| 3b | Tanja Stelzner | Rosenweg 10, 75417 Mühlacker Dürrmenz | 8150922 | 0176/61097053 | Tanja.Stelzner@gmx.net |
 | 3c | Kiriaki Semertzidis | St.-Andreas-Straße 55, 75417 Mühlacker Dürrmenz | 863887 | 0162/6166759 | 74kiki@web.de |
 | 3c | Spyros Alexopoulos | Wiernsheimer Str. 61, 75417 Mühlacker Dürrmenz | 9493599 | 0178/1681718 | spyros.alexopoulos@gmx.net |
 | 4a | Petra Brigitte Herrling | Haldenstr. 100/1, 75417 Mühlacker Dürrmenz | 814068 | 0173/8156794 | petra.herrling@web.de |
 | 4a | Bianca Kurtyka | Haldenstr. 26, 75417 Mühlacker Dürrmenz | 9493774 | 0160/4717245 | bibi2008@web.de |
-| 4b | Bernhard Haumacher | August-Hebenstreit-Str. 16, 75417 Mühlacker Dürrmenz | 9491403 | 0171/5595351 | haui@haumacher.de |
 | 4b | Sevilay Yilmaz | Wiernsheimer Str. 52, 75417 Mühlacker Dürrmenz | 813350 | 0176/32613306 | palamar@hotmail.de |
+| 4b | Bernhard Haumacher | August-Hebenstreit-Str. 16, 75417 Mühlacker Dürrmenz | 9491403 | 0171/5595351 | haui@haumacher.de |
 |===
