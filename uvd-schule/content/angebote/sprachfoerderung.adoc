@@ -4,7 +4,7 @@ category=angebote
 index=3a
 date=
 type=page
-tags=Sprachförderung
+tags=Sprachfoerderung
 status=published
 ~~~~~~
 Um für alle Kinder eine optimale Ausgangsvoraussetzung für die Teilname am Unterricht zu schaffen, bietet die Schule ein Sprachförderprogamm an. Die Kurse zur Sprachförderung werden von Frau Boger und Frau Fanz durchgeführt.

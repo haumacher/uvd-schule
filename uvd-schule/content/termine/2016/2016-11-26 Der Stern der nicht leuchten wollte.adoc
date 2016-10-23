@@ -1,7 +1,7 @@
 title=Aufführung „Der Stern, der nicht leuchten wollte“
 date=2016-11-26
 type=post
-tags=Chor, Aufführung
+tags=Chor, Auffuehrung
 status=published
 ~~~~~~
 Der Schulchor führt „Der Stern, der nicht leuchten wollte“ - 

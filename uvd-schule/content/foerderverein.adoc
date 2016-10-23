@@ -4,7 +4,7 @@ category=profil
 index=2c
 name=foerderverein
 type=page
-tags=Förderverein
+tags=Foerderverein
 status=published
 ~~~~~~
 image::foerderverein/logo-foerderverein.png[Logo, 180, 180, float="right"]

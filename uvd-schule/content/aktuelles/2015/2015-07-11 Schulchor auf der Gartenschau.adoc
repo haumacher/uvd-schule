@@ -1,7 +1,7 @@
 title=Aufführung „Eine Freundschaft in der Savanne“
 date=2015-07-11
 type=post
-tags=Chor,Aufführung
+tags=Chor,Auffuehrung
 status=published
 ~~~~~~
 Die Aufführung unseres link:/angebote/chor.html[Schulchors] auf der Gartenschau 2015 war ein großer Erfolg. Sowohl das Publikum als auch die Darsteller hatten großen Spaß bei dem Musical "Eine Freundschaft in der Savanne". 
