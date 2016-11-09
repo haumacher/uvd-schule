@@ -1,10 +1,47 @@
 index=1c
-title=Kernzeitbetreuung
+title=Kernzeit- und Nachmittagsbetreuung
 category=angebote
 name=kernzeit
 type=page
 tags=Kernzeit
 status=published
 ~~~~~~
+== Kernzeit
+Die Betreuungszeiten der Kernzeit sind:
+
+[cols="1,2", options=""]
+|===
+| Vormittags | Montag bis Freitag 7:00 – 8:30 Uhr
+
+| Nachmittags | Montag bis Freitag 12:00 – 13:00 Uhr
+|===
+
+Während der Kernzeitbetreuung wird hauptsächlich gespielt oder gebastelt.
+
+== Nachmittagsbetreuung
+Die Nachmittagsbetreuungszeiten sind:
+
+[cols="1,1", options=""]
+|===
+| Montag bis Donnerstag | 12:00 – 16:00 Uhr
+
+| Freitag | 12:00 – 14:00 Uhr
+|===
+
+Während der Nachmittagsbetreuung gibt es die Möglichkeit zum Mittagessen (kostenpflichtig) sowie zur Erledigung der Hausaufgaben (betreut).
+
+Die Auswahlmöglichkeit der Betreuung ist individuell möglich. Die Gebührensätze für die Kernzeit- und Nachmittagsbetreuung finden Sie im link:/service/downloads.html[Downloadbereich].
+
+== Kontakt
+Weitere Informationen können Sie entweder direkt bei Frau Stephan während der Betreuungszeiten oder telefonisch erfahren.
+
+[cols="1,3", options=""]
+|===
+| Kontakt | Frau Stephan 
+
+| Telefon | 0170 2243607
+
+| Ort | link:/service/raumplan.html[Kernzeit]
+|===
 
 

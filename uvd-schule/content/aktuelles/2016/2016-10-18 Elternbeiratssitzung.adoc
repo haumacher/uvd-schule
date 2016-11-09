@@ -1,0 +1,10 @@
+title=Elternbeiratssitzung
+date=2016-10-18
+type=post
+tags=Elternbeirat
+status=published
+~~~~~~
+Der Elternbeirat trifft sich am 18.10.2016, 19.30 Uhr im Raum der "link:/service/raumplan.html[Griechischen Schule]".
+
+Update: Das link:2016-10-18%20Elternbeiratssitzung%20Protokoll.pdf[Protokoll] der Sitzung.
+
