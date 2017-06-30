@@ -4,7 +4,7 @@ title=Schulsozialarbeit an der Ulrich-von-Dürrmenz Schule
 category=profil
 name=sozialarbeit
 type=page
-tags=Sozialarbeit
+tags=Sozialarbeit, Spielenachmittag
 status=published
 ~~~~~~
 

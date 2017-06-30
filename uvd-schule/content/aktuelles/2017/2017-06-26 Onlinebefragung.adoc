@@ -1,0 +1,7 @@
+title=Onlinebefragung der Eltern
+date=2017-06-26
+type=post
+tags=
+status=published
+~~~~~~
+Im Zeitraum 26.06. - 21.07.2017 findet die Onlinebefragung der Eltern zur Fremdevaluation statt (Elternbriefe werden verteilt).

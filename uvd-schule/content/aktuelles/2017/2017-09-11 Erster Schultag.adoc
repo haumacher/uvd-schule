@@ -1,0 +1,7 @@
+title=Erster Schultag
+date=2017-09-11
+type=post
+tags=
+status=published
+~~~~~~
+Der erste Schultag nach den Sommerferien ist Mo. der 11.09.2017. Unterricht findet von 8:30 - 12:05 Uhr statt. Ab dem 2. Schultag gibt es Unterricht nach Stundenplan.

@@ -1,0 +1,7 @@
+title=Letzter Schultag
+date=2017-07-26
+type=post
+tags=
+status=published
+~~~~~~
+Am letzten Schultag endet der Unterricht bereits um 11:00 Uhr.

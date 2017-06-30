@@ -1,0 +1,9 @@
+title=Spielenachmittag
+date=2016-11-23
+type=post
+tags=Spielenachmittag
+status=published
+~~~~~~
+Der Spielenachmittag findet von 15:00 Uhr bis 16:30 Uhr statt.
+
+Rückfragen bitte an link:/angebote/sozialarbeit.html[Frau Schneider].
