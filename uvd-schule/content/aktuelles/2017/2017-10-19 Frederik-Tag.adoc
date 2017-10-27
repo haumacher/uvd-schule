@@ -1,0 +1,7 @@
+title=Frederik-Tag
+date=2017-10-19
+type=post
+tags=Lesen
+status=published
+~~~~~~
+Am 19.10.17 ist der sog. http://www.frederick.de/[Frederik-Tag]. Dieses Leseprojekt wird in den Klassen 2 bis 4 von 9:30 bis 11:00 Uhr durchgeführt.

@@ -1,0 +1,17 @@
+title=Kunst-AG
+category=ag
+name=kunst
+type=page
+tags=Kunst,AG
+status=published
+~~~~~~
+[cols="1,3", options=""]
+|===
+| Termin | Dienstags von 14:00 - 15:30 Uhr.
+
+| Ort | link:/service/raumplan.html[Musiksaal]
+
+| Ansprechpartner | Frau Abel
+
+| Kontakt | 
+|===

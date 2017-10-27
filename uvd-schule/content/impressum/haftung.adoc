@@ -1,6 +1,6 @@
 index=z
 title=Haftungsausschluss
-category=impressum
+category=home
 name=haftung
 type=page
 tags=Impressum
