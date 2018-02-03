@@ -1,0 +1,19 @@
+title=Türkisch für Muttersprachler
+category=angebote
+index=5
+date=
+type=page
+tags=Türkisch
+status=published
+~~~~~~
+Für Muttersprachler gibt es die Möglichkeit türkischen Unterricht zu besuchen. Der Türkischunterricht findet in den Räumen der UvD-Schule statt.  
+
+|===
+| Termin | ?
+
+| Ort | ?
+
+| Ansprechpartner | Frau Angay
+
+| Tel. | 0157 59552664
+|===

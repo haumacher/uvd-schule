@@ -1,0 +1,7 @@
+title=Theaterbesuch „Das Dschungelbuch“
+date=2018-01-31
+type=post
+tags=Theater
+status=published
+~~~~~~
+Am Mittwoch den 31.01.18 besuchen wir in Pforzheim das Theaterstück „Das Dschungelbuch“.

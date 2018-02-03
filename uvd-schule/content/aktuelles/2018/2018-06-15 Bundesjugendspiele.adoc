@@ -1,0 +1,7 @@
+title=Bundesjugendspiele
+date=2018-06-15
+type=post
+tags=Sport
+status=published
+~~~~~~
+Die Bundesjugendspiele finden bei gutem Wetter am Freitag den 15.06.2018 im Käppele-Stadion statt. Falls das Wetter schleicht sein sollte, ist Freitag der 22.06.2018 der Ersatztermin.

@@ -1,0 +1,7 @@
+title=Grundschulsporttag
+date=2018-07-24
+type=post
+tags=Sport
+status=published
+~~~~~~
+Zum Schuljahresabschluss findet am Dienstag den 24.07.2018 unser Grundschulsporttag im Sportstadion Käppele statt. Wir hoffen auf gutes Wetter!
