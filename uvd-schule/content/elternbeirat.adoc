@@ -19,11 +19,11 @@ status=published
 | Klasse | Name | Telefon | E-Mail |
 | 1a | Magdalena Rak | 0176/30313233 | magdalenarak@gmail.com |
 | 1a | Stella Dutt | 07041/9493791 | stelladutt@gmx.de |
+| 1b | Dr. Fabian-Alexander Polonius  | 07041/8184199 | polonius-gil@t-online.de |
 | 1b |   |  |  |
-| 1b |   |  |  |
-| 2a | Benigno Hell |  |  |
+| 2a | Benigno Hell |  | chillinlovesun@gmail.com |
 | 2a |   |  |  |
-| 2b |   |  |  |
+| 2b | Adriana Ataman  | 01705262026 | Adriana2206@hotmail.de |
 | 2b |   |  |  |
 | 3a | Bernhard Haumacher | 07041/9491403, 0171/5595351 | haui@haumacher.de |
 | 3a | Monja Rauth |  | monja.rauth@hotmail.de |
