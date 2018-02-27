@@ -1,0 +1,11 @@
+title=Mathe-Känguru-Wettbewerb
+date=2018-03-15
+type=post
+tags=Mathe
+status=published
+~~~~~~
+Die UvD nimmt teil am deutschlandweiten Mathe-Känguru-Wettbewerb http://www.mathe-kaenguru.de/. Der Wettbewerb ist für die Klassenstufen 3 bis 13 ausgelegt. Er handelt sich um einen mathematischen Multiple-Choice-Wettbewerb, der die mathematische Bildung in den Schulen unterstützen, die Freude an der Beschäftigung mit Mathematik wecken und festigen und durch das Angebot an interessanten Aufgaben die selbstständige Arbeit und die Arbeit im Unterricht fördern soll.
+
+Da Wettbewerb ohne vorheriges Training nur die halbe Freude ist, gibt es Termine, an denen man sich auf den Wettbewerb unter Anleitung vorbereiten kann: 07.02., 21.02., 28.02. und 07.03 jeweils ab 17:15 Uhr.
+
+image::/angebote/Mathe-AG-Einladung.png[Einladung zum Känguru-Tranining]

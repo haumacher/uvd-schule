@@ -1,0 +1,16 @@
+title=Mathe-Känguru-Training
+date=2018-03-07
+type=post
+tags=Mathe
+status=published
+~~~~~~
+Wir trainieren für das link:/aktuelles/2018/2018-03-15%20Mathe-Kaenguru-Wettbewerb[Mathe-Känguru].
+
+image::/angebote/Mathe-AG-Einladung.png[Einladung zum Känguru-Training]
+
+|===
+| Wann:  | 17:15 Uhr |
+| Wo: | Raum 703 (Klassenzimmer 3b) |
+| Wer: | Kinder der 3. und 4. Klassen |
+|===
+

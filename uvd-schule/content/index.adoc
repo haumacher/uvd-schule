@@ -9,6 +9,10 @@ status=published
 ~~~~~~
 Wir freuen uns Sie in der Ullrich-von-Dürrmenz Schule begrüßen zu dürfen!
 
+Aktuell: link:/aktuelles/2018/2018-03-15%20Mathe-Kaenguru-Wettbewerb[Mathe-Känguru-Wettbewerb]
+image:/angebote/Mathe-AG-Einladung.png[Einladung zum Känguru-Training]
+
+
 image:/images/startuvd.jpg[]
 
 == Geschichte
