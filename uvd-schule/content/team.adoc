@@ -6,27 +6,27 @@ type=page
 tags=Team
 status=published
 ~~~~~~
-* Abel, Esther (Klasse 2b)
-* Bengel, Alexandra (Inklusion Kl. 1)
-* Boger, Nicole (Sprachförderung)
-* Fanz, Tanja (Sprachförderung)
-* Fuchs, Sandra (Kernzeitbetreuung)
-* Geißler, Martina
-* Gültekin Nihal (Kernzeitbetreuung)
-* Kandert, Elke
-* Klewar, Matthias (Schulleiter und Klasse 3b)
-* Kolmar, Konstanze (VKL)
-* Legeland, Anna (Klasse 4b)
-* Neumann, Ursula (Inklusion Kl. 2)
-* Philippzig, Annette (Klasse 2a)
-* Schneider, Stefanie (Schulsozialarbeit)
-* Schwager, Filomena (Sprachförderung)
-* Seiche, Michael (stellv. Hausmeister)
-* Spernol, Sandra (Klasse 3a und 4c)
-* Stephan, Petra (Kernzeitbetreuung)
-* Uhl, Susanne
-* Westermann, Natalie (Klasse 1b)
-* Wezel, Heike (Sekretärin)
-* Wilhelm, Kathleen (Klasse 4a)
-* Wimmer, Barbara (Klasse 1a)
-* Wirth, Günther (Hausmeister)
+* Frau Abel (Klasse 2b)
+* Frau Bengel (Inklusion Kl. 1)
+* Frau Boger (Sprachförderung)
+* Frau Fanz (Sprachförderung)
+* Frau Fuchs (Kernzeitbetreuung)
+* Frau Geißler 
+* Frau Gültekin (Kernzeitbetreuung)
+* Frau Kandert 
+* Herr Klewar (Schulleiter und Klasse 3b)
+* Frau Kolmar (VKL)
+* Frau Legeland (Klasse 4b)
+* Frau Neumann (Inklusion Kl. 2)
+* Frau Philippzig (Klasse 2a)
+* Frau Schneider (Schulsozialarbeit)
+* Frau Schwager (Sprachförderung)
+* Herr Seiche (stellv. Hausmeister)
+* Frau Spernol (Klasse 3a und 4c)
+* Frau Stephan (Kernzeitbetreuung)
+* Frau Uhl
+* Frau Westermann (Klasse 1b)
+* Frau Wezel (Sekretärin)
+* Frau Wilhelm (Klasse 4a)
+* Frau Wimmer (Klasse 1a)
+* Herr Wirth (Hausmeister)
