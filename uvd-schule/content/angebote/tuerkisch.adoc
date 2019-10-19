@@ -3,7 +3,7 @@ category=angebote
 index=5
 date=
 type=page
-tags=Türkisch
+tags=Tuerkisch
 status=published
 ~~~~~~
 Für Muttersprachler gibt es die Möglichkeit türkischen Unterricht zu besuchen. Der Türkischunterricht findet in den Räumen der UvD-Schule statt.  

@@ -1,7 +1,7 @@
 title=Känguru-Tag 2020
 date=2020-03-19
 type=post
-tags=Känguru, Foerderverein
+tags=Kaenguru, Foerderverein
 status=published
 ~~~~~~
 Wer ist dabei beim Mathe-Känguru-Tag 2020? Wir suchen wieder den besten Rätsel-Löser und Känguru-Springer der UvD. Schau mal rein: https://www.mathe-kaenguru.de/

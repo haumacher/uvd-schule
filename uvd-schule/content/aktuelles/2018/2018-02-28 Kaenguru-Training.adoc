@@ -1,7 +1,7 @@
 title=Mathe-Känguru-Training 2018
 date=2018-02-28
 type=post
-tags=Mathe, Känguru, Foerderverein
+tags=Mathe, Kaenguru, Foerderverein
 status=published
 ~~~~~~
 Wir trainieren für das link:/aktuelles/2018/2018-03-15%20Mathe-Kaenguru-Wettbewerb[Mathe-Känguru].

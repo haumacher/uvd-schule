@@ -1,7 +1,7 @@
 title=Mathe-Känguru-Training
 date=2018-02-07
 type=post
-tags=Mathe
+tags=Mathe, Kaenguru
 status=published
 ~~~~~~
 Wir trainieren für das link:/aktuelles/2018/2018-03-15%20Mathe-Kaenguru-Wettbewerb[Mathe-Känguru].
