@@ -1,0 +1,8 @@
+index=4
+title=Schwimm-AG
+category=ag
+type=page
+tags=AG
+status=published
+~~~~~~
+Ein Schwimmkurs der Wasserfreunde Mühlacker für Klassenstufe 1 findet Donnerstags 16:00 Uhr im Hallenbad Mühlacker statt.

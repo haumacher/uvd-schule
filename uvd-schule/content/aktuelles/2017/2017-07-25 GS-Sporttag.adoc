@@ -1,5 +1,5 @@
 title=GS-Sporttag
-date=
+date=2017-07-25
 type=post
 tags=
 status=published

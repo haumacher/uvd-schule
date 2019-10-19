@@ -2,6 +2,7 @@ index=2aa
 menutitle=Schulsozialarbeit
 title=Schulsozialarbeit an der Ulrich-von-Dürrmenz Schule
 category=profil
+date=
 name=sozialarbeit
 type=page
 tags=Sozialarbeit, Spielenachmittag
@@ -9,28 +10,28 @@ status=published
 ~~~~~~
 
 ****
-image:/images/StefanieSchneider.jpg[Stefanie Schneider, width=200, float=right]
+image:/images/LeonoreKlama.jpg[Stefanie Schneider, width=200, float=right]
 
-Stefanie Schneider +
-Montag bis Donnerstag 8.00 Uhr - 13.00 Uhr und nach Vereinbarung +
+Leonore Klama +
+Sprechzeiten: 8.30-12.30h +
 Zimmer 508 +
-Mobil: 0176 96164689 +
+Mobil: 01778278433 +
 Festnetz: 07041 8767 70 +
-mailto:Stefanie.Schneider@miteinanderleben.de[]
+mailto:Leonore.Klama@miteinanderleben.de[]
 ****
 
-Die Schulsozialarbeit ist ein Angebot des Jugend- und Sozialamtes Enzkreis und bietet ein freiwilliges bedarfsorientiertes Beratungsangebot für Schülerinnen und Schüler, Lehrer, Eltern und Angehörige. Sie ist eine präventive Form der Jugendhilfe zur Förderung von Kindern und Jugendlichen im schulpflichtigen Alter.	
+Die Schulsozialarbeit ist ein Angebot der Stadt Mühlacker und wird gefördert durch den Kommunalverband für Jugend und Soziales (KVJS) und das Jugendamt Enzkreis.  Sie bietet ein freiwilliges bedarfsorientiertes Beratungsangebot für Schülerinnen und Schüler, Lehrer, Eltern und Angehörige. Sie ist eine präventive Form der Jugendhilfe zur Förderung von Kindern und Jugendlichen im schulpflichtigen Alter.
 
-Schulsozialarbeit heißt auch Vernetzung der verschiedenen Angebote und Unterstützungs-möglichkeiten in der Region bzw. in der Gemeinde. Die Sozialarbeit an Schulen will dazu beitragen, Schule als "`Lebensort`" zu gestalten. Die rechtlichen Grundlagen für die Jugendhilfe sind im Kinder- und Jugendhilfegesetz – SGB VIII und die der Schule in den Schulgesetzen der Länder zu finden.
+Schulsozialarbeit heißt auch Vernetzung der verschiedenen Angebote und Unterstützungsmöglichkeiten in der Region bzw. in der Gemeinde. Die Sozialarbeit an Schulen will dazu beitragen, Schule als „Lebensort“ zu gestalten. Die rechtlichen Grundlagen für die Jugendhilfe sind im Kinder- und Jugendhilfegesetz – SGB VIII und die der Schule in den Schulgesetzen der Länder zu finden.
 
-Die Schulsozialarbeit:
-
-- stärkt die Persönlichkeit der Schülerinnen und Schüler.
-- Entlastet den schulischen Alltag und gibt Orientierungshilfen bei verschiedenen Lebensfragen (z.B. Jugendhilfe, Übergang Schule-Beruf, Wohnen, Familie etc.).
-- Aktiviert die Eigenkräfte der Adressaten und leistet somit vor allem Hilfe zur Selbsthilfe.
-- Fördert die soziale Kompetenz und Eigenverantwortung von Schülern und Schülerinnen durch gezielte Projekte und Angebote.
-- Baut Schwellenängste gegenüber anderen Hilfesystemen (z.B. Jugendamt, Beratungsstellen etc.) ab.
-- öffnet die Schule für das Gemeinwesen. Sie trägt deswegen zu einer Vernetzung im sozialräumlichen Umfeld der Schule bei.
+.Die Schulsozialarbeit:
+* stärkt die Persönlichkeit der Schülerinnen und Schüler.
+* entlastet den schulischen Alltag und gibt Orientierungshilfen bei verschiedenen Lebensfragen (z.B. Jugendhilfe, Übergang Schule-Beruf, Wohnen, Familie etc.).
+* aktiviert die Eigenkräfte der Adressaten und leistet somit vor allem Hilfe zur Selbsthilfe.
+* fördert die soziale Kompetenz und Eigenverantwortung von Schülern und Schülerinnen durch gezielte Projekte und Angebote.
+* baut Schwellenängste gegenüber anderen Hilfesystemen (z.B. Jugendamt, Beratungsstellen
+etc.) ab.
+* öffnet die Schule für das Gemeinwesen. Sie trägt deswegen zu einer Vernetzung im sozialräumlichen Umfeld der Schule bei.
 
 Die Schulsozialarbeit wird getragen und finanziert durch
 
@@ -65,3 +66,5 @@ Angebote der Schulsozialarbeit sind:
 Bei Gesprächen besteht grundsätzlich Schweigepflicht.
 
 Ich freue mich über ihre Kontaktaufnahme !
+
+*miteinanderleben e.V.* ist eine gemeinnützige Einrichtung zur Förderung und Unterstützung der sozialen und beruflichen Teilhabe von Menschen in Pforzheim und im Enzkreis. Wir sind in verschiedenen Fachgremien überörtlich vertreten. Unsere Einrichtung ist dem Paritätischen Wohlfahrtsverband als Dachverband zugehörig.

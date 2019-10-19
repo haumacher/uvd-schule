@@ -9,7 +9,7 @@ status=published
 Für Muttersprachler gibt es die Möglichkeit griechischen Unterricht zu besuchen. Der Griechischunterricht findet in den Räumen der UvD-Schule statt.  
 
 |===
-| Termin | Montag bis Freitag 14:00 bis 17:30 Uhr
+| Termin | Montag bis Freitag 14:00 bis 16:30 Uhr
 
 | Ort | link:/service/raumplan.html[Raum 412]
 

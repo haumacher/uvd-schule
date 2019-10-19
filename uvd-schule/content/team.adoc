@@ -6,27 +6,23 @@ type=page
 tags=Team
 status=published
 ~~~~~~
-* Frau Abel (Klasse 2b)
-* Frau Bengel (Inklusion Kl. 1)
-* Frau Boger (Sprachförderung)
-* Frau Fanz (Sprachförderung)
-* Frau Fuchs (Kernzeitbetreuung)
-* Frau Geißler 
-* Frau Gültekin (Kernzeitbetreuung)
-* Frau Kandert 
-* Herr Klewar (Schulleiter und Klasse 3b)
-* Frau Kolmar (VKL)
-* Frau Legeland (Klasse 4b)
-* Frau Neumann (Inklusion Kl. 2)
-* Frau Philippzig (Klasse 2a)
-* Frau Schneider (Schulsozialarbeit)
-* Frau Schwager (Sprachförderung)
-* Herr Seiche (stellv. Hausmeister)
-* Frau Spernol (Klasse 3a und 4c)
-* Frau Stephan (Kernzeitbetreuung)
-* Frau Uhl
-* Frau Westermann (Klasse 1b)
-* Frau Wezel (Sekretärin)
-* Frau Wilhelm (Klasse 4a)
-* Frau Wimmer (Klasse 1a)
-* Herr Wirth (Hausmeister)
+* Frau	Bengel	
+* Frau	Geißler	
+* Frau	Hermle	
+* Frau	Huwer	
+* Frau	Kandert	
+* Frau	Klama	(Schulsozialarbeit)
+* Herr	Klewar	(Schulleiter)
+* Frau	Klokkers	(2b)
+* Frau	Kurz	
+* Frau	Langhauser	(1b)
+* Frau	Maier	(3b)
+* Frau	Malcher	(4b)
+* Frau	Philippzig	(2a)
+* Herr	Seiche	(Hausmeister)
+* Frau	Seifert	
+* Frau	Spernol	(3a)
+* Frau	Uhl	
+* Frau	Werkmann	
+* Frau	Westermann	(1a)
+* Frau 	Wezel	(Sekretariat)

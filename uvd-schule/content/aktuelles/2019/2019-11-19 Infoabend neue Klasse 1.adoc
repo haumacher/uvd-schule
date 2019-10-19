@@ -1,0 +1,7 @@
+title=Infoabend für die neue Klasse 1 ab 09/2020
+date=2019-11-19
+type=post
+tags=Infoabend
+status=published
+~~~~~~
+Wir treffen und im link:/service/raumplan.html[Musiksaal].

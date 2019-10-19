@@ -1,0 +1,8 @@
+title=Schulanmeldung neue Kl. 1
+date=2019-03-20
+type=post
+tags=
+status=published
+~~~~~~
+Anmeldung ab 13:30 Uhr. Persönliche Einladungen mit Uhrzeit wurden verschickt.
+Frau Stephan von der Kernzeit und Frau Boger von der Sprachförderung sind da.
