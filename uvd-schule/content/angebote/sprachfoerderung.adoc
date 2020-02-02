@@ -2,7 +2,6 @@ title=Sprachförderung
 name=sprachfoerderung
 category=angebote
 index=3a
-date=
 type=page
 tags=Sprachfoerderung
 status=published

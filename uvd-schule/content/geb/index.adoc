@@ -1,0 +1,63 @@
+index=2c
+title=Gesamtelternbeirat
+category=profil
+name=index
+type=page
+tags=Elternbeirat
+status=published
+~~~~~~
+image::header.png[]
+
+*Wir, der Elternbeirat dieser Schule und der Gesamtelternbeirat aller Mühlacker
+Schulen begrüßen Euch ganz herzlich an einer unserer Schulen!*
+
+Es ist uns ein Anliegen, das gute Klima zwischen Eltern und Schulen beizubehalten
+und weiter zu fördern.
+
+Daher haben wir uns zusammengesetzt und einen Leitfaden für die Eltern der
+Mühlacker Schulen erstellt.
+
+Dieser soll es allen Eltern vereinfachen, sich an Mühlacker Schulen zurechtzufinden
+und sich wohl zu fühlen. Hier können Eltern auch erfahren, an wen sie sich hinwenden
+können, falls Probleme entstehen. Zudem bietet er den Elternvertretern durch
+Vorlagen und Tipps eine Orientierungshilfe.
+
+Neben Wissen, sollte Kindern während der Schulzeit auch Regeln und Werte vermittelt
+werden. Hierfür sind Schule und Eltern in gleichem Maße gefordert. Durch ein
+Vorleben dieser im Elternhaus und gemeinschaftlichen Projekten der Schule, können
+wir unseren Kindern das Beste für ihr weiteres Leben mitgeben. So lernen unsere
+Kinder die Vorteile eines Zusammenlebens mit Geben und Nehmen.
+
+* link:/geb/Leitfaden%20V.1.pdf[Leitfaden (PDF)]
+
+Für Elternbeiräte haben wir zusätzlich Tipps und Vorlagen erstellt:
+
+* link:/geb/Tipps%20fuer%20Elternvertreter%20V.1.pdf[Tipps für Elternvertreter (PDF)]
+
+== Vorlagen
+
+* link:/geb/Vorlage%20Einladung%20Klassenpflegschaftsabend%20V.1.docx[Einladung zum zweiten Klassenpflegschaftsabend eines Jahres (Word)]
+ 
+* link:/geb/Vorlage%20Elterntreffen%20-%20Brief%20an%20die%20Eltern%20V.1.docx[Einladung zu einem Elterntreffen (Word)]
+
+== Vorbereitung von Veranstaltungen
+
+* link:/geb/Vorlage%20Elternbrief%20Schulveranstaltung%20V.1.docx[Vorlage Elternbrief Schulveranstaltung (Word)]
+* link:/geb/Vorlage%20Einschulung%201.%20Klasse%20-%20Brief%20an%20die%20Eltern%20V.1.docx[Vorlage Einschulung 1. Klasse - Brief an die Eltern (Word)]
+* link:/geb/Vorbereitungen%20fuer%20die%20Einschulungsfeier%20UvD%20V.1.xlsx[Vorbereitungen fuer die Einschulungsfeier UvD (Excel)]
+* link:/geb/Umgang%20mit%20Doodle%20V.1.pdf[Terminfindung mit Hilfe von www.doodle.de (PDF)]
+* link:/geb/Umgang%20mit%20Bringabottle%20UvD%20V.1.pdf[Organisation Veranstaltung mit Hilfe von www.bringabottle.de (PDF)]
+
+Hier noch die Übersicht aller Veranstaltungen an Eurer Schule, die wir Eltern
+vorbereiten und ausführen:
+
+* link:/geb/Schulveranstaltungen%20UvD%20-%20Wir%20machen%20mit%20V.1.pdf[UvD - Wir machen mit (PDF)]
+
+Wir wünschen Euren Kindern und Euch eine gute Schulzeit, in der die Kinder eine
+bestmögliche Förderung erfahren und freuen uns darauf, Euch kennenzulernen!
+
+Der Elternbeirat Eurer Schule
+
+Der Gesamtelternbeirat Mühlacker
+
+image::footer.jpg[]
